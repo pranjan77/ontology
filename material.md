@@ -2,7 +2,7 @@
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   |        methane-laden permafrost|
-| Paragraph   |>  >methane-laden permafrost|
+| Paragraph   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;methane-laden permafrost|
 
 
 
