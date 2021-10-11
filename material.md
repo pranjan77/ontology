@@ -1,3 +1,10 @@
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   |        methane-laden permafrost|
+| Paragraph   |`        methane-laden permafrost`|
+
+
 
 |ENVO:00000134|	permafrost|
 |ENVO:03000088	|`    methane-laden permafrost`|
