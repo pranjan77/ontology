@@ -1,4 +1,5 @@
-## Material field in KBase samples uploader is validated against <b>Ontology</b> or <b>Name</b> from the following table
+## Validation for Material field in samples upload
+Material field is validated against <b>Ontology</b> or <b>Name</b> from the following table
 |Ontology|Name|Definition|
 |--------|------|---------|
 |        |<img width=1000>||
