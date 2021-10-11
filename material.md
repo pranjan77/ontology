@@ -1,270 +1,641 @@
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   |        methane-laden permafrost|
-| Paragraph   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;methane-laden permafrost|
-
-
-
-|ENVO:00000134|	permafrost|
-|ENVO:03000088	|`    methane-laden permafrost`|
-
-
-ENVO:00000194	scree
-ENVO:00001998	soil
-ENVO:00002229	    arenosol
-ENVO:00002230	    anthrosol
-ENVO:00002231	    alisol
-ENVO:00002232	    andosol
-ENVO:00002233	    albeluvisol
-ENVO:00002235	    cambisol
-ENVO:00002236	    cryosol
-ENVO:00002237	    chernozem
-ENVO:00002238	    durisol
-ENVO:00002239	    calcisol
-ENVO:00002240	    kastanozem
-ENVO:00002241	    leptosol
-ENVO:00002242	    lixisol
-ENVO:00002243	    histosol
-ENVO:00002244	    gleysol
-ENVO:00002245	    gypsisol
-ENVO:00002246	    ferralsol
-ENVO:00002247	    nitisol
-ENVO:00002248	    luvisol
-ENVO:00002249	    phaeozem
-ENVO:00002007	sediment
-ENVO:00000546	    lake sediment
-ENVO:00002147	        coal mine lake sediment
-ENVO:00002209	        saline lake sediment
-ENVO:00002045	    anaerobic sediment
-ENVO:00002134	        anaerobic stream sediment
-ENVO:01000135	        nitrate-reducing sediment
-ENVO:01000151	        manganese-reducing sediment
-ENVO:01000152	        iron-reducing sediment
-ENVO:01000153	        sulphate-reducing sediment
-ENVO:01000154	        carbon dioxide-reducing sediment
-ENVO:00002114	    contaminated sediment
-ENVO:00002154	        radioactive sediment
-ENVO:00002155	            high-level radioactive sediment
-ENVO:00002202	        organically contaminated sediment
-ENVO:00002180	            naphthalene contaminated sediment
-ENVO:00002115	                petroleum contaminated sediment
-ENVO:00002182	            nitrobenzene contaminated sediment
-ENVO:00002201	            cis-dichloroethane contaminated sediment
-ENVO:00002203	        inorganically contaminated sediment
-ENVO:00002127	    stream sediment
-ENVO:00002134	        anaerobic stream sediment
-ENVO:00002179	    intertidal sediment
-ENVO:01000070	    terrigenous sediment
-ENVO:01000082	    biogenous sediment
-ENVO:02000044	        siliceous ooze
-ENVO:02000045	        red clay
-ENVO:02000046	        calcareous ooze
-ENVO:01000110	    hydrogenous sediment
-ENVO:01000112	        polymetallic nodule
-ENVO:01000111	    cosmogenous sediment
-ENVO:01000113	    suspended sediment
-ENVO:01000114	    boulder sediment
-ENVO:01000115	    cobble sediment
-ENVO:01000116	    pebble sediment
-ENVO:01000117	    granular sediment
-ENVO:01000118	    sandy sediment
-ENVO:01000119	    silty sediment
-ENVO:01000120	    clay sediment
-ENVO:01000121	    colloidal sediment
-ENVO:01000131	    mesophilic sediment
-ENVO:01000132	    thermophilic sediment
-ENVO:00002191	animal litter
-ENVO:00002192	    poultry litter
-ENVO:00003908	        poultry deep litter
-ENVO:00002264	waste material
-ENVO:00002001	    waste water
-ENVO:00002018	        sewage
-ENVO:00002193	        pulp-bleaching waste water
-ENVO:01000964	        industrial wastewater
-ENVO:00002267	    industrial waste material
-ENVO:00002206	        coal mine waste material
-ENVO:00002207	            self-heating coal mine waste material
-ENVO:00002872	    bagasse
-ENVO:01000371	    agricultural waste material
-ENVO:00002266	        chicken breeding waste material
-ENVO:01000372	    household waste material
-ENVO:01000373	    biological waste material
-ENVO:00002873	        organic waste material
-ENVO:00002276	            animal waste material
-ENVO:02000022	    excreta material
-ENVO:00002003	        fecal material
-ENVO:00002047	        urine material
-ENVO:02000025	        sweat material
-ENVO:00002982	clay
-ENVO:01001396	    abyssal clay
-ENVO:00003031	animal manure
-ENVO:00003032	    fresh animal manure
-ENVO:00003859	    horse manure
-ENVO:00003860	    pig manure
-ENVO:00003884	    farmyard manure
-ENVO:00003927	    stable manure
-ENVO:01001116	    bovine dairy liquid manure
-ENVO:01001117	    poultry manure
-ENVO:01001118	    heat-treated animal manure
-ENVO:01001119	    composted animal manure
-ENVO:02000084	    goat manure
-ENVO:00003930	scum
-ENVO:00005794	    water scum
-ENVO:00005738	foam
-ENVO:00005739	    sea foam
-ENVO:00010505	aerosol
-ENVO:01000838	    smoke
-ENVO:01001088	    aerosolised liquids
-ENVO:01000844	        fog
-ENVO:01000842	            smog
-ENVO:01001258	            vog
-ENVO:01001458	        mist
-ENVO:01001089	    aerosolised solids
-ENVO:01000405	        respirable suspended particulate matter
-ENVO:01000415	            fine respirable suspended particulate matter
-ENVO:01000416	                ultrafine respirable suspended particulate matter
-ENVO:01001402	        haze
-ENVO:00010506	emulsion
-ENVO:0010001	anthropogenic environmental material
-ENVO:00000003	    mine tailing
-ENVO:00002044	    sludge
-ENVO:00002046	        activated sludge
-ENVO:00002057	        raw primary sludge
-ENVO:00002058	        secondary sludge
-ENVO:00002059	        biosolids
-ENVO:00002129	        anaerobic sludge
-ENVO:00003965	            anaerobic digester sludge
-ENVO:00002176	        contaminated sludge
-ENVO:00002060	            oil sludge
-ENVO:00002177	            1,4-dioxane contaminated sludge
-ENVO:00002212	        thermophilic granular sludge
-ENVO:00005796	        marine sludge
-ENVO:00002870	    adobe
-ENVO:00003076	    glue
-ENVO:0010003	    agricultural environmental material
-ENVO:00002170	        compost
-ENVO:00002171	            hay compost
-ENVO:00003033	            mushroom compost
-ENVO:00002869	        hay
-ENVO:00003030	        silage
-ENVO:00003071	            grass silage
-ENVO:00003900	                rye grass silage
-ENVO:00003978	            potato silage
-ENVO:00003869	        straw
-ENVO:00003870	            rice straw
-ENVO:01000473	        thatch
-ENVO:01001113	        forage material
-ENVO:02000053	        hide
-ENVO:01000404	    plastic
-ENVO:01000458	    concrete
-ENVO:01000459	        asphalt concrete
-ENVO:01000461	    refined asphalt
-ENVO:01000462	    masonry cement
-ENVO:01000463	        hydraulic cement
-ENVO:01000464	        non-hydraulic cement
-ENVO:01000474	    brick material
-ENVO:01000476	    plaster
-ENVO:01000477	        gypsum plaster
-ENVO:01000478	        cement plaster
-ENVO:01000479	        lime plaster
-ENVO:02000043	    biological product
-ENVO:02000123	    paint
-ENVO:02000124	        lead paint
-ENVO:01000001	mud
-ENVO:00002122	    arsenic-rich mud
-ENVO:00002133	    anaerobic mud
-ENVO:00002160	    estuarine mud
-ENVO:00005795	    marine mud
-ENVO:00005797	    lake bottom mud
-ENVO:01000016	silt
-ENVO:01000017	sand
-ENVO:00002118	    sea sand
-ENVO:00002138	    beach sand
-ENVO:00002148	        coarse beach sand
-ENVO:00005798	    acid dune sand
-ENVO:00005799	    rocky sand
-ENVO:00005800	    desert sand
-ENVO:01000350	    autoclaved sand
-ENVO:01000018	gravel
-ENVO:01000060	particulate matter
-ENVO:00002008	    dust
-ENVO:01001282	        silica dust
-ENVO:01001283	        aluminium dust
-ENVO:01001284	        barium dust
-ENVO:01001285	        talc dust
-ENVO:01001286	        slate dust
-ENVO:01001288	        kaolin dust
-ENVO:02000099	        coal dust
-ENVO:02000100	        mineral dust
-ENVO:02000101	        fibrous dust
-ENVO:02000102	            fibrous glass dust
-ENVO:02000106	            asbestos dust
-ENVO:02000103	        metallic dust
-ENVO:02000104	        cement dust
-ENVO:02000105	        clay dust
-ENVO:02000109	        dust from plant parts
-ENVO:02000107	            grain dust
-ENVO:02000108	            cotton dust
-ENVO:01000436	    waterborne particulate matter
-ENVO:03000021	    soot
-ENVO:03000038	    cryoconite deposit
-ENVO:01000155	organic material
-ENVO:00002040	    wood
-ENVO:00002135	        treated wood
-ENVO:00002136	            arsenate treated wood
-ENVO:01000000	    humus
-ENVO:01000063	    planktonic material
-ENVO:01000156	    biofilm material
-ENVO:01000157	    microbial mat material
-ENVO:01000349	    root matter
-ENVO:01000560	    charcoal
-ENVO:2000007	        biochar
-ENVO:01000628	    plant litter
-ENVO:01001103	    detritus
-ENVO:01000158	        marine snow
-ENVO:01001121	    plant matter
-ENVO:01001189	    algal material
-ENVO:01001231	    kerogen
-ENVO:01001232	        sapropelic kerogen
-ENVO:01001233	        labile kerogen
-ENVO:01001234	        recalcitrant kerogen
-ENVO:01001235	        planktonic kerogen
-ENVO:01001236	            sulfrous kerogen
-ENVO:01001237	        humic kerogen
-ENVO:01001238	        residual kerogen
-ENVO:01001391	    gill tissue material
-ENVO:01001392	        mussel gill tissue material
-ENVO:01001393	            Bathymodiolus gill tissue material
-ENVO:01001395	    necromass
-ENVO:02000019	    bodily fluid material
-ENVO:00000338	        vomit material
-ENVO:02000020	        blood material
-ENVO:02000021	        amniotic fluid material
-ENVO:02000022	        excreta material
-ENVO:00002003	            fecal material
-ENVO:00002047	            urine material
-ENVO:02000025	            sweat material
-ENVO:02000023	        bile material
-ENVO:02000024	        aqueous humour material
-ENVO:02000026	        chyme material
-ENVO:02000027	        blood plasma material
-ENVO:02000028	        ear wax material
-ENVO:02000029	        cerebrospinal fluid material
-ENVO:02000030	        chyle material
-ENVO:02000031	        breast milk material
-ENVO:02000032	        vitreous humor material
-ENVO:02000033	        pleural effusion material
-ENVO:02000034	        tear material
-ENVO:02000035	        oronasal secretion material
-ENVO:02000036	        saliva material
-ENVO:02000037	        sebum material
-ENVO:02000038	        pus material
-ENVO:02000039	        synovial fluid material
-ENVO:1000746	    marine mucilage
-ENVO:01000231	lava
-ENVO:01000232	    felsic lava
-ENVO:01000233	    intermediate lava
-ENVO:01000234	    mafic lava
-ENVO:01000235	    ultramafic lava
-ENVO:01000444	    dacitic lava
+|Ontology|Name|Definition|
+|--------|------|---------|
+|        |<img width=1000>||
+|ENVO:00000134|permafrost|Soil or rock and included ice or organic material at or below the freezing point of water (0 degrees Celsius or 32 degrees Fahrenheit) for two or more years.|
+|ENVO:03000088|&nbsp;&nbsp;&nbsp;&nbsp;methane-laden permafrost|Permafrost which contains pockets of trapped methane gas.|
+|ENVO:00000194|scree|Broken rock that appears at the bottom of crags, mountain cliffs or valley shoulders.|
+|ENVO:00001998|soil|Soil is an environmental material which is primarily composed of minerals, varying proportions of sand, silt, and clay, organic material such as humus, gases, liquids, and a broad range of resident micro- and macroorganisms.|
+|ENVO:00002229|&nbsp;&nbsp;&nbsp;&nbsp;arenosol|Arenosols are sandy soils, including both soils developed in residual sands after in situ weathering of usually quartz-rich sediments or rock, and soils developed in recently deposited sands such as dunes in deserts and beach lands.|
+|ENVO:00002230|&nbsp;&nbsp;&nbsp;&nbsp;anthrosol|Anthrosols comprise soils that have been modified profoundly through human activities, such as addition of organic materials or household wastes, irrigation and cultivation.|
+|ENVO:00002231|&nbsp;&nbsp;&nbsp;&nbsp;alisol|Alisols are soils that have a higher clay content in the subsoil than in the topsoil as a result of pedogenetic processes (especially clay migration) leading to an argic subsoil horizon. Alisols have a low base saturation at certain depths and high-activity clays throughout the argic horizon. They lack the albeluvic tonguing as in Albeluvisols. They occur predominantly in humid tropical, humid subtropical and warm temperate regions.|
+|ENVO:00002232|&nbsp;&nbsp;&nbsp;&nbsp;andosol|Andosols are soils that develop in volcanic ejecta or glasses under almost any climate (except under hyperarid climate conditions). However, Andosols may also develop in other silicate-rich materials under acid weathering in humid and perhumid climates.|
+|ENVO:00002233|&nbsp;&nbsp;&nbsp;&nbsp;albeluvisol|Albeluvisols are soils that have, beginning within 1 m of the soil surface, a clay illuviation horizon with an irregular or broken upper boundary resulting in tonguing of bleached soil material into the illuviation horizon.|
+|ENVO:00002235|&nbsp;&nbsp;&nbsp;&nbsp;cambisol|Cambisols combine soils with at least an incipient subsurface soil formation. Transformation of parent material is evident from structure formation and mostly brownish discoloration, increasing clay percentage, and/or carbonate removal.|
+|ENVO:00002236|&nbsp;&nbsp;&nbsp;&nbsp;cryosol|Cryosols comprise mineral soils formed in a permafrost environment. Where water is present, it occurs primarily in the form of ice. Cryogenic processes are the dominant soil-forming processes.|
+|ENVO:00002237|&nbsp;&nbsp;&nbsp;&nbsp;chernozem|Chernozems are soils with a thick black surface layer that is rich in organic matter.|
+|ENVO:00002238|&nbsp;&nbsp;&nbsp;&nbsp;durisol|Durisols are associated mainly with old surfaces in arid and semi-arid environments and accommodate very shallow to moderately deep, moderately well- to well-drained soils that contain cemented secondary silica (SiO2) within 100 cm of the soil surface.|
+|ENVO:00002239|&nbsp;&nbsp;&nbsp;&nbsp;calcisol|Calcisols are soils in which there is substantial secondary accumulation of lime. Calcisols are common in highly calcareous parent materials and widespread in arid and semi-arid environments.|
+|ENVO:00002240|&nbsp;&nbsp;&nbsp;&nbsp;kastanozem|Kastanozems are dry grassland soils, among them the zonal soils of the short-grass steppe belt, south of the Eurasian tall-grass steppe belt with Chernozems. Kastanozems have a similar profile to that of Chernozems but the humus-rich surface horizon is thinner and not as dark as that of the Chernozems and they show more prominent accumulation of secondary carbonates.|
+|ENVO:00002241|&nbsp;&nbsp;&nbsp;&nbsp;leptosol|Leptosols are very shallow soils over continuous rock and soils that are extremely gravelly and/or stony. Leptosols are azonal soils and particularly common in mountainous regions.|
+|ENVO:00002242|&nbsp;&nbsp;&nbsp;&nbsp;lixisol|Lixisols are soils that have a higher clay content in the subsoil than in the topsoil as a result of pedogenetic processes (especially clay migration) leading to an argic subsoil horizon. Lixisols have a high base saturation and low-activity clays at certain depths.|
+|ENVO:00002243|&nbsp;&nbsp;&nbsp;&nbsp;histosol|Histosols comprise soils formed in organic material. These vary from soils developed in predominantly moss peat in boreal, arctic and subarctic regions, via moss peat, reeds/ sedge peat (fen) and forest peat in temperate regions to mangrove peat and swamp forest peat in the humid tropics. Histosols are found at all altitudes, but the vast majority occurs in lowlands.|
+|ENVO:00002244|&nbsp;&nbsp;&nbsp;&nbsp;gleysol|Gleysols are wetland soils that, unless drained, are saturated with groundwater for long enough periods to develop a characteristic gleyic colour pattern. This pattern is essentially made up of reddish, brownish or yellowish colours at ped surfaces and/or in the upper soil layer or layers, in combination with greyish/bluish colours inside the peds and/or deeper in the soil.|
+|ENVO:00002245|&nbsp;&nbsp;&nbsp;&nbsp;gypsisol|Gypsisols are soils with substantial secondary accumulation of gypsum (calcium sulfate). These soils are found in the driest parts of the arid climate zone.|
+|ENVO:00002246|&nbsp;&nbsp;&nbsp;&nbsp;ferralsol|Ferralsols represent the classical, deeply weathered, red or yellow soils of the humid tropics. These soils have diffuse horizon boundaries, a clay assemblage dominated by low-activity clays (mainly kaolinite) and a high content of sesquioxides.|
+|ENVO:00002247|&nbsp;&nbsp;&nbsp;&nbsp;nitisol|Nitisols are deep, well-drained, red, tropical soils with diffuse horizon boundaries and a subsurface horizon with more than 30 percent clay and moderate to strong angular blocky structure elements that easily fall apart into characteristic shiny, polyhedric (nutty) elements. Weathering is relatively advanced but Nitisols are far more productive than most other red, tropical soils.|
+|ENVO:00002248|&nbsp;&nbsp;&nbsp;&nbsp;luvisol|Luvisols are soils that have a higher clay content in the subsoil than in the topsoil as a result of pedogenetic processes (especially clay migration) leading to an argic subsoil horizon. Luvisols have high-activity clays throughout the argic horizon and a high base saturation at certain depths.|
+|ENVO:00002249|&nbsp;&nbsp;&nbsp;&nbsp;phaeozem|Phaeozems accommodate soils of relatively wet grassland and forest regions in moderately continental climates. Phaeozems are much like Chernozems and Kastanozems but are leached more intensively. Consequently, they have dark, humus rich surface horizons that, in comparison with Chernozems and Kastanozems, are less rich in bases. Phaeozems may or may not have secondary carbonates but have a high base saturation in the upper metre of the soil.|
+|ENVO:00002250|&nbsp;&nbsp;&nbsp;&nbsp;plinthosol|Plinthosols are soils with plinthite, petroplinthite or pisoliths. Plinthite is an Fe-rich (in some cases also Mn-rich), humus-poor mixture of kaolinitic clay (and other products of strong weathering such as gibbsite) with quartz and other constituents that changes irreversibly to a layer with hard nodules, a hardpan or irregular aggregates on exposure to repeated wetting and drying. Petroplinthite is a continuous, fractured or broken sheet of connected, strongly cemented to indurated nodules or mottles. Pisoliths are discrete strongly cemented to indurated nodules. Both petroplinthite and pisoliths develop from plinthite by hardening.|
+|ENVO:00002251|&nbsp;&nbsp;&nbsp;&nbsp;planosol|Planosols are soils with a light-coloured, surface horizon that shows signs of periodic water stagnation and abruptly overlies a dense, slowly permeable subsoil with significantly more clay than the surface horizon.|
+|ENVO:00002252|&nbsp;&nbsp;&nbsp;&nbsp;solonchak|Solonchaks are soils that have a high concentration of soluble salts at some time in the year. Solonchaks are largely confined to the arid and semi-arid climate zones and to coastal regions in all climates.|
+|ENVO:00002253|&nbsp;&nbsp;&nbsp;&nbsp;umbrisol|Umbrisols are soils in which organic matter has accumulated within the mineral surface soil (in most cases with low base saturation) to the extent that it significantly affects the behaviour and utilization of the soil.|
+|ENVO:00002254|&nbsp;&nbsp;&nbsp;&nbsp;vertisol|A soil in which there is a high content of expansive clay known as montmorillonite that forms deep cracks in drier seasons or years. Alternate shrinking and swelling causes self-mulching, where the soil material consistently mixes itself, causing vertisols to have an extremely deep A horizon and no B horizon.|
+|ENVO:00002255|&nbsp;&nbsp;&nbsp;&nbsp;solonetz|Solonetz are soils with a dense, strongly structured, clayey subsurface horizon that has a high proportion of adsorbed Na and/or Mg ions. Solonetz that contain free soda (Na2CO3) are strongly alkaline (field pH > 8.5).|
+|ENVO:00002256|&nbsp;&nbsp;&nbsp;&nbsp;regosol|Regosols form a taxonomic remnant group containing all soils that could not be accommodated in any of the other RSGs. In practice, Regosols are very weakly developed mineral soils in unconsolidated materials that do not have a mollic or umbric horizon, are not very shallow or very rich in gravels (Leptosols), sandy (Arenosols) or with fluvic materials (Fluvisols). Regosols are extensive in eroding lands, particularly in arid and semi-arid areas and in mountainous terrain.|
+|ENVO:00002257|&nbsp;&nbsp;&nbsp;&nbsp;podzol|Podzols are soils with a typically ash-grey upper subsurface horizon, bleached by loss of organic matter and iron oxides, on top of a dark accumulation horizon with brown, reddish or black illuviated humus and/or reddish Fe compounds. Podzols occur in humid areas in the boreal and temperate zones and locally also in the tropics.|
+|ENVO:00002258|&nbsp;&nbsp;&nbsp;&nbsp;loam|A soil composed of sand, silt, and clay in relatively even concentration (about 40-40-20% concentration respectively).|
+|ENVO:00002259|&nbsp;&nbsp;&nbsp;&nbsp;agricultural soil|agricultural soil|
+|ENVO:00005740|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paddy field soil|paddy field soil|
+|ENVO:00005759|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alluvial paddy field soil|alluvial paddy field soil|
+|ENVO:00005776|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;peaty paddy field soil|peaty paddy field soil|
+|ENVO:00005788|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rubber plantation soil|rubber plantation soil|
+|ENVO:00005789|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bluegrass field soil|Bluegrass field soil is a soil which is found in a field of Kentucky Bluegrass (Poa pratensis).|
+|ENVO:00002260|&nbsp;&nbsp;&nbsp;&nbsp;dune soil|dune soil|
+|ENVO:00002261|&nbsp;&nbsp;&nbsp;&nbsp;forest soil|A portion of soil which is found in a forested area.|
+|ENVO:00005769|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mountain forest soil|mountain forest soil|
+|ENVO:00005770|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beech forest soil|beech forest soil|
+|ENVO:00005783|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leafy wood soil|leafy wood soil|
+|ENVO:00005784|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spruce forest soil|spruce forest soil|
+|ENVO:00005787|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eucalyptus forest soil|eucalyptus forest soil|
+|ENVO:00002262|&nbsp;&nbsp;&nbsp;&nbsp;clay soil|clay soil|
+|ENVO:00002263|&nbsp;&nbsp;&nbsp;&nbsp;garden soil|A portion of soil which is found in a garden.|
+|ENVO:00005744|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;allotment garden soil|Soil which is part of an allotment garden.|
+|ENVO:00005779|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vegetable garden soil|vegetable garden soil|
+|ENVO:00002273|&nbsp;&nbsp;&nbsp;&nbsp;fluvisol|Fluvisols accommodate genetically young, azonal soils in alluvial deposits.|
+|ENVO:00002274|&nbsp;&nbsp;&nbsp;&nbsp;stagnosol|Stagnosols are soils with a perched water table showing redoximorphic features caused by surface water. Stagnosols are periodically wet and mottled in the topsoil and subsoil, with or without concretions and/or bleaching.|
+|ENVO:00002275|&nbsp;&nbsp;&nbsp;&nbsp;technosol|Technosols are soils whose properties and pedogenesis are dominated by their technical origin. They contain a significant amount of artefacts (something in the soil recognizably made or extracted from the earth by humans), or are sealed by technic hard rock (material created by humans, having properties unlike natural rock). They include soils from wastes (landfills, sludge, cinders, mine spoils and ashes), pavements with their underlying unconsolidated materials, soils with geomembranes and constructed soils in human-made materials.|
+|ENVO:00002871|&nbsp;&nbsp;&nbsp;&nbsp;alluvial soil|Soil which has been eroded and influenced by flowing water and redeposited in a non-marine setting.|
+|ENVO:00005758|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alluvial swamp soil|A portion of alluvial soil which is part of a swamp ecosystem.|
+|ENVO:00005759|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alluvial paddy field soil|alluvial paddy field soil|
+|ENVO:00003082|&nbsp;&nbsp;&nbsp;&nbsp;enriched soil|A portion of enriched soil is a portion of soil with elevated levels of some material entity.|
+|ENVO:00002116|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contaminated soil|A portion of contaminated soil is a portion of soil with elevated levels of some contaminant.|
+|ENVO:00002117|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;creosote contaminated soil|Soil which has elevated concentrations of creosote.|
+|ENVO:00002146|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;xylene contaminated soil|Soil which has elevated concentrations of xylene.|
+|ENVO:00002875|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oil contaminated soil|Soil which has elevated concentrations of oil.|
+|ENVO:00003081|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metal contaminated soil|Soil which has elevated concentrations of metals.|
+|ENVO:00002145|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chromate contaminated soil|Soil which has elevated concentrations of chromate.|
+|ENVO:00005775|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;salt contaminated soil|Soil which has elevated concentrations of sodium chloride.|
+|ENVO:00003083|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sarcosine enriched soil|A portion of sarcosine enriched soil is a portion of soil with elevated levels of sarcosine.|
+|ENVO:00003084|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trimethylamine enriched soil|A portion of trimethylamine enriched soil is a portion of soil with elevated levels of trimethylamine.|
+|ENVO:00003085|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;skatole enriched soil|A portion of skatole enriched soil is a portion of soil with elevated levels of skatole.|
+|ENVO:00003086|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ethanol enriched soil|A portion of ethanol enriched soil is a portion of soil with elevated levels of ethanol.|
+|ENVO:00003087|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;acetamide enriched soil|A portion of acetamide enriched soil is a portion of soil with elevated levels of acetamide.|
+|ENVO:00003088|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pantothenate enriched soil|A portion of pantothenate enriched soil is a portion of soil with elevated levels of pantothenate.|
+|ENVO:00003089|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;testosterone enriched soil|A portion of testosterone enriched soil is a portion of soil with elevated levels of testosterone.|
+|ENVO:00003090|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kynurenate enriched soil|A portion of kynurenate enriched soil is a portion of soil with elevated levels of kynurenate.|
+|ENVO:00003091|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;threonine enriched soil|A portion of threonine enriched soil is a portion of soil with elevated levels of threonine.|
+|ENVO:00003092|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;salicylate enriched soil|A portion of salicylate enriched soil is a portion of soil with elevated levels of salicylate.|
+|ENVO:00003093|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;poly-beta-hydroxybutyrate enriched soil|A portion of poly-beta-hydroxybutyrate enriched soil is a portion of soil with elevated levels of poly-beta-hydroxybutyrate.|
+|ENVO:00003094|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L-(+)-tartrate enriched soil|A portion of L-(+)-tartrate enriched soil is a portion of soil with elevated levels of L-(+)-tartrate.|
+|ENVO:00003095|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quinate enriched soil|A portion of quinate enriched soil is a portion of soil with elevated levels of quinate.|
+|ENVO:00003914|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chalk soil|chalk soil|
+|ENVO:00005753|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urea enriched soil|A portion of urea enriched soil is a portion of soil with elevated levels of urea.|
+|ENVO:00005757|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bacteria enriched soil|A portion of bacteria enriched soil is a portion of soil with elevated bacterial abundance.|
+|ENVO:00005762|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chloropicrin enriched soil|A portion of chloropicrin enriched soil is a portion of soil with elevated levels of chloropicrin.|
+|ENVO:00005763|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humus-rich acidic ash soil|humus-rich acidic ash soil|
+|ENVO:01000427|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carbon nanotube enriched soil|A portion of carbon nanotube enriched soil is a portion of soil with elevated levels of carbon nanotubes.|
+|ENVO:00005741|&nbsp;&nbsp;&nbsp;&nbsp;alpine soil|alpine soil|
+|ENVO:00005742|&nbsp;&nbsp;&nbsp;&nbsp;arable soil|arable soil|
+|ENVO:00005743|&nbsp;&nbsp;&nbsp;&nbsp;roadside soil|A portion of soil which is found in a roadside area.|
+|ENVO:00005747|&nbsp;&nbsp;&nbsp;&nbsp;compost soil|compost soil|
+|ENVO:00005765|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frozen compost soil|frozen compost soil|
+|ENVO:00005748|&nbsp;&nbsp;&nbsp;&nbsp;dry soil|Soil which has little to no water content and in which minerals and other soluble chemical entities have either bonded or become adsorbed to sold particles due to insufficient water availability.|
+|ENVO:00005749|&nbsp;&nbsp;&nbsp;&nbsp;farm soil|A portion of soil which is part of a cropland or a rangeland biome.|
+|ENVO:00005750|&nbsp;&nbsp;&nbsp;&nbsp;grassland soil|A portion of soil which is found in a grassland.|
+|ENVO:00005746|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;savanna soil|A portion of soil which is found in a savanna.|
+|ENVO:00005773|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pasture soil|Soil which is found in a pasture and in which vegetation, such as the grass used for the grazing of ungulates, grows.|
+|ENVO:00005777|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;steppe soil|A portion of soil which is found in a steppe.|
+|ENVO:00005751|&nbsp;&nbsp;&nbsp;&nbsp;jungle soil|Soil which is part of a densely forested area subject to tropical climate patterns.|
+|ENVO:00005752|&nbsp;&nbsp;&nbsp;&nbsp;sawah soil|sawah soil|
+|ENVO:00005754|&nbsp;&nbsp;&nbsp;&nbsp;fertilized soil|fertilized soil|
+|ENVO:00005755|&nbsp;&nbsp;&nbsp;&nbsp;field soil|field soil|
+|ENVO:00005756|&nbsp;&nbsp;&nbsp;&nbsp;lawn soil|lawn soil|
+|ENVO:00005760|&nbsp;&nbsp;&nbsp;&nbsp;burned soil|burned soil|
+|ENVO:00005761|&nbsp;&nbsp;&nbsp;&nbsp;meadow soil|meadow soil|
+|ENVO:00005764|&nbsp;&nbsp;&nbsp;&nbsp;pond soil|pond soil|
+|ENVO:00005766|&nbsp;&nbsp;&nbsp;&nbsp;limed soil|limed soil|
+|ENVO:00005767|&nbsp;&nbsp;&nbsp;&nbsp;manured soil|Soil which has, as a part, a portion of either fresh or processed animal manure.|
+|ENVO:00005768|&nbsp;&nbsp;&nbsp;&nbsp;orchid soil|Soil which has properties to which plants in the Family Orchidaceae have adapted, including increased levels of aeration and drainage.|
+|ENVO:00005771|&nbsp;&nbsp;&nbsp;&nbsp;muddy soil|Soil which is composed of a large proportion of mud, thus having properties resembling mud.|
+|ENVO:00005772|&nbsp;&nbsp;&nbsp;&nbsp;orchard soil|Soil in which trees from an orchard grow.|
+|ENVO:00005774|&nbsp;&nbsp;&nbsp;&nbsp;peat soil|peat soil|
+|ENVO:00005778|&nbsp;&nbsp;&nbsp;&nbsp;tropical soil|tropical soil|
+|ENVO:00005780|&nbsp;&nbsp;&nbsp;&nbsp;greenhouse soil|A portion of soil which is found in a greenhouse.|
+|ENVO:00005781|&nbsp;&nbsp;&nbsp;&nbsp;heat stressed soil|heat stressed soil|
+|ENVO:00005782|&nbsp;&nbsp;&nbsp;&nbsp;ornithogenic soil|Soil which is formed from avian fecal matter.|
+|ENVO:00005785|&nbsp;&nbsp;&nbsp;&nbsp;volcanic soil|volcanic soil|
+|ENVO:00005786|&nbsp;&nbsp;&nbsp;&nbsp;upland soil|upland soil|
+|ENVO:00005790|&nbsp;&nbsp;&nbsp;&nbsp;red soil|red soil|
+|ENVO:00005802|&nbsp;&nbsp;&nbsp;&nbsp;bulk soil|Soil that is not penetrated by the root systems of plants.|
+|ENVO:01001185|&nbsp;&nbsp;&nbsp;&nbsp;acidic soil|Soil which has increased levels of molecules or ions capable of donating a hydron (proton or hydrogen ion) to other chemical entities, or, alternatively, capable of forming covalent bonds with other chemicals via the acceptance of an electron pair, resulting in a bulk pH measurement of less than 7.|
+|ENVO:01001397|&nbsp;&nbsp;&nbsp;&nbsp;ultisol|A soil which has high mineral content and which contain no calcareous material, have less than 10% weatherable minerals its surface layer, and have less than 35% base saturation throughout its volume.|
+|ENVO:00002234|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;acrisol|Acrisols are soils that have a higher clay content in the subsoil than in the topsoil as a result of pedogenetic processes (especially clay migration) leading to an argic subsoil horizon. Acrisols have in certain depths a low base saturation and low-activity clays.|
+|ENVO:01001526|&nbsp;&nbsp;&nbsp;&nbsp;frozen soil|Soil which is below the freezing point of water.|
+|ENVO:00005765|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frozen compost soil|frozen compost soil|
+|ENVO:01001525|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard-frozen soil|Frozen soil which is firmly cemented by water ice, is subject to brittle failure, and exhibits practically no consolidation under load.|
+|ENVO:01001527|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plastic-frozen soil|Frozen soil which is cemented by water ice but has viscous properties due to its high, unfrozen water content and therefore will compress and deform under load.|
+|ENVO:01001528|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;friable-frozen soil|Frozen soil which has very low total water content and is not cemented by ice; its compressibility is the same as that of unfrozen soils having the same composition, total water content and density.|
+|ENVO:02000059|&nbsp;&nbsp;&nbsp;&nbsp;surface soil|A soil consisting of the upper layer of soil on the surface consisting of loose material capable of supporting life composed of a mixture of mineral and organic matter.|
+|ENVO:00002007|sediment|Sediment is an environmental substance comprised of any particulate matter that can be transported by fluid flow and which eventually is deposited as a layer of solid particles on the bedor bottom of a body of water or other liquid.|
+|ENVO:00000546|&nbsp;&nbsp;&nbsp;&nbsp;lake sediment|Lake sediment is sediment which covers the bottom of a lake. Lake sediments are comprised mainly of clastic material (sediment of clay, silt, and sand sizes), organic debris, chemical precipitates, or combinations of these.|
+|ENVO:00002147|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coal mine lake sediment|Coal mine lake sediment is lake sediment which covers the bottom of a coal mine lake.|
+|ENVO:00002209|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saline lake sediment|Saline lake sediment is sediment which covers the bottom of a saline lake.|
+|ENVO:00002045|&nbsp;&nbsp;&nbsp;&nbsp;anaerobic sediment|Sediment characterised by the absence of oxygen.|
+|ENVO:00002134|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anaerobic stream sediment|anaerobic stream sediment|
+|ENVO:01000135|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrate-reducing sediment|Sediment hosting and characterised by active nitrate reducing microbial communities.|
+|ENVO:01000151|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manganese-reducing sediment|Sediment hosting and characterised by active manganese reducing microbial communities.|
+|ENVO:01000152|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iron-reducing sediment|Sediment hosting and characterised by active iron reducing microbial communities.|
+|ENVO:01000153|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sulphate-reducing sediment|Sediment hosting and characterised by active sulphate reducing microbial communities.|
+|ENVO:01000154|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carbon dioxide-reducing sediment|Sediment hosting and characterised by active carbon dioxide reducing microbial communities.|
+|ENVO:00002114|&nbsp;&nbsp;&nbsp;&nbsp;contaminated sediment|contaminated sediment|
+|ENVO:00002154|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;radioactive sediment|radioactive sediment|
+|ENVO:00002155|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;high-level radioactive sediment|high-level radioactive sediment|
+|ENVO:00002202|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organically contaminated sediment|organically contaminated sediment|
+|ENVO:00002180|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naphthalene contaminated sediment|naphthalene contaminated sediment|
+|ENVO:00002115|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;petroleum contaminated sediment|petroleum contaminated sediment|
+|ENVO:00002182|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nitrobenzene contaminated sediment|nitrobenzene contaminated sediment|
+|ENVO:00002201|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cis-dichloroethane contaminated sediment|cis-dichloroethane contaminated sediment|
+|ENVO:00002203|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inorganically contaminated sediment|inorganically contaminated sediment|
+|ENVO:00002127|&nbsp;&nbsp;&nbsp;&nbsp;stream sediment|stream sediment|
+|ENVO:00002134|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anaerobic stream sediment|anaerobic stream sediment|
+|ENVO:00002179|&nbsp;&nbsp;&nbsp;&nbsp;intertidal sediment|intertidal sediment|
+|ENVO:01000070|&nbsp;&nbsp;&nbsp;&nbsp;terrigenous sediment|Sediment comprised of weathered continental rocks, wind blown dust, volcanic ash or other terrestrial material.|
+|ENVO:01000082|&nbsp;&nbsp;&nbsp;&nbsp;biogenous sediment|Biogenous sediment is derived from living organisms, typically planktonic organisms possessing shells, frustules or coccoliths.|
+|ENVO:02000044|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siliceous ooze|Siliceous ooze is a marine sediment composed of the debris of plankton with silica shells, such as diatoms and radiolaria. This ooze is limited to areas with high biological productivity, such as the polar oceans, and upwelling zones near the equator. The least common type of sediment, it covers only 15% of the ocean floor. It accumulates at a slower rate than calcareous ooze: 0.2-1 cm / 1000 yr.|
+|ENVO:02000045|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;red clay|Red clay, also known as pelagic clay, accumulates in the deepest and most remote areas of the ocean. Containing less than 30% biogenic material, its composition is a varied mix of very fine quartz and clay minerals, authigenic deposits precipitated directly from seawater, and micrometeorites. Though called "red" because it sometimes takes the color of oxidized iron minerals, it is usually brownish in color. Its ultimate origin is uncertain, but red clay seems to be mostly derived from distant rivers, and windblown dust. Covering 38% of the ocean floor, it accumulates more slowly than any other sediment type, at only 0.1-0.5 cm / 1000 yr.|
+|ENVO:02000046|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calcareous ooze|Calcareous ooze is a marine sediment composed primarily of the shells--also known as tests--of foraminifera, coccolithophores, and pteropods. This is the most common pelagic sediment by area, covering 48% of the world ocean's floor. This type of ooze is limited to depths above the Carbonate Compensation Depth at time of burial. It accumulates more rapidly than any other pelagic sediment type, with a rate that varies from 0.3 - 5 cm / 1000 yr.|
+|ENVO:01000110|&nbsp;&nbsp;&nbsp;&nbsp;hydrogenous sediment|Hydrogenous sediment is derived from solutes that precipitate out of sea water by a variety of chemical reactions. These are typically less abundant than other sediment types.|
+|ENVO:01000112|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;polymetallic nodule|Polymetallic nodules, also called manganese nodules, are rock concretions on the sea bottom formed of concentric layers of iron and manganese hydroxides around a core. Nodules vary in size from tiny particles visible only under a microscope to large pellets more than 20 centimetres (8 in) across. However, most nodules are between 5 and 10 cm in diameter.|
+|ENVO:01000111|&nbsp;&nbsp;&nbsp;&nbsp;cosmogenous sediment|Cosmogenous sediment is derived from extraterrestrial dust and debris in the form of meteorites and similar entities.|
+|ENVO:01000113|&nbsp;&nbsp;&nbsp;&nbsp;suspended sediment|Suspended sediment, or suspended load, is the term for the particles settle  slowly enough to be carried in flowing water (such as a stream or coastal area) either without touching the bed or while only intermittently touching it. These particles are generally of the fine sand, silt and clay size, although larger particles may be carried as well depending on the intensity of the flow.|
+|ENVO:01000114|&nbsp;&nbsp;&nbsp;&nbsp;boulder sediment|Sediment characterised by an average particle diameter greater than 256 mm.|
+|ENVO:01000115|&nbsp;&nbsp;&nbsp;&nbsp;cobble sediment|Sediment characterised by an average particle diameter between 64 and 256 mm.|
+|ENVO:01000116|&nbsp;&nbsp;&nbsp;&nbsp;pebble sediment|Sediment characterised by an average particle diameter between 4 and 32 mm.|
+|ENVO:01000117|&nbsp;&nbsp;&nbsp;&nbsp;granular sediment|Sediment characterised by an average particle diameter between 2 and 4 mm.|
+|ENVO:01000118|&nbsp;&nbsp;&nbsp;&nbsp;sandy sediment|Sediment characterised by an average particle diameter between 62.5 micrometers and 2 mm.|
+|ENVO:01000119|&nbsp;&nbsp;&nbsp;&nbsp;silty sediment|Sediment characterised by an average particle diameter between 3.9 and 62.5 micrometers.|
+|ENVO:01000120|&nbsp;&nbsp;&nbsp;&nbsp;clay sediment|Sediment characterised by an average particle diameter between 1 and 3.9 micrometers.|
+|ENVO:01000121|&nbsp;&nbsp;&nbsp;&nbsp;colloidal sediment|Sediment characterised by an average particle diameter below 1 micrometer.|
+|ENVO:01000131|&nbsp;&nbsp;&nbsp;&nbsp;mesophilic sediment|Sediment characterised by a temperature of 15-45 degrees Celsius and high-to-low oxygenation. Often impacted by hydrothermal fluid flows.|
+|ENVO:01000132|&nbsp;&nbsp;&nbsp;&nbsp;thermophilic sediment|Sediment characterised by a temperature of 45-75 degrees Celsius and low to no oxygen content. Often impacted by hydrothermal fluid flows.|
+|ENVO:01000133|&nbsp;&nbsp;&nbsp;&nbsp;hyperthermophilic sediment|Sediment characterised by a temperature of 80-125 degrees Celsius and no oxygen content. Often impacted by hydrothermal fluid flows.|
+|ENVO:01001028|&nbsp;&nbsp;&nbsp;&nbsp;sediment permeated by freshwater|Sediment which has its porespace filled by water which has very low levels of sodium chloride and/or other salts.|
+|ENVO:01001036|&nbsp;&nbsp;&nbsp;&nbsp;sediment permeated by saline water|Sediment which has its porespace filled by water with increased levels of sodium chloride and other salts.|
+|ENVO:01001203|&nbsp;&nbsp;&nbsp;&nbsp;alluvial sediment|Sediment which has been transported by flowing water and redeposited in a non-marine setting.|
+|ENVO:03000033|&nbsp;&nbsp;&nbsp;&nbsp;marine sediment|Sediment which has been transported through the marine water column, settling on the seafloor.|
+|ENVO:00002113|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep marine sediment|Sediment that accumulates in the flat or very gently sloping areas of the deep ocean basin floor. The three main types of deep marine sediment, also known as pelagic sediment, are siliceous oozes, calcareous oozes, and red clays.|
+|ENVO:03000034|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shallow marine sediment|Marine sediment soured from either terrestrial systems, marine organisms, seawater and or cosmogeneous sources, which is transported through the marine water column, and accumulates within shallow regions of the oceanic basin close to continents, such as the continental shelf, or continental slope.|
+|ENVO:00002191|animal litter|Straw or other material strewn in an animal's enclosure (e.g. a stable) for it to sleep on and to absorb its faeces and urine.|
+|ENVO:00002192|&nbsp;&nbsp;&nbsp;&nbsp;poultry litter|poultry litter|
+|ENVO:00003908|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;poultry deep litter|poultry deep litter|
+|ENVO:00002264|waste material|A material which is not the desired output of a process and which is typically the input of a process which removes it from its producer (e.g. a disposal process).|
+|ENVO:00002001|&nbsp;&nbsp;&nbsp;&nbsp;waste water|Water that has been adversely affected in quality by anthropogenic influence.|
+|ENVO:00002018|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sewage|Wastewater that is contaminated with feces or urine,|
+|ENVO:00002193|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pulp-bleaching waste water|pulp-bleaching waste water|
+|ENVO:01000964|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;industrial wastewater|Wastewater which is produced by industrial activity and which contains chemical contaminants other than those associated with urine and fecal matter.|
+|ENVO:00002267|&nbsp;&nbsp;&nbsp;&nbsp;industrial waste material|Industrial wastes are liquid, solid and gaseous wastes originating from the manufacture of specific products.|
+|ENVO:00002206|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coal mine waste material|coal mine waste material|
+|ENVO:00002207|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self-heating coal mine waste material|self-heating coal mine waste material|
+|ENVO:00002872|&nbsp;&nbsp;&nbsp;&nbsp;bagasse|The biomass remaining after sugarcane stalks are crushed to extract their juice.|
+|ENVO:01000371|&nbsp;&nbsp;&nbsp;&nbsp;agricultural waste material|Agricultural waste is waste produced as a result of various agricultural operations. It includes manure and other wastes from farms, poultry houses and slaughterhouses; harvest waste; fertilizer run- off from fields; pesticides that enter into water, air or soils; and salt and silt drained from fields.|
+|ENVO:00002266|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chicken breeding waste material|chicken breeding waste material|
+|ENVO:01000372|&nbsp;&nbsp;&nbsp;&nbsp;household waste material|Household waste refers to waste material usually generated in the residential environment. Waste with similar characteristics may be generated in other economic activities and can thus be treated and disposed of together with household waste.|
+|ENVO:01000373|&nbsp;&nbsp;&nbsp;&nbsp;biological waste material|Biological waste is waste containing mostly natural organic materials (remains of plants, animal excrement, biological sludge from waste-water treatment plants and so forth).|
+|ENVO:00002873|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;organic waste material|organic waste material|
+|ENVO:00002276|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;animal waste material|animal waste material|
+|ENVO:02000022|&nbsp;&nbsp;&nbsp;&nbsp;excreta material|A bodily fluid material which is composed primarily of excreta, bodily fluids consisting of matter which contains the waste products of biological processes, including urine or feces, discharged from an organism's body.|
+|ENVO:00002003|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fecal material|An excreta material which is composed primarily of feces, an excreta consisting of waste products expelled from an animal's digestive tract through the anus (or cloaca) during defecation.|
+|ENVO:00002047|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urine material|An excreta material which is composed primarily of urine, a liquid excreta containing water and waste products made by the kidneys, stored in the bladder, and leaves the body through the urethra.|
+|ENVO:02000025|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweat material|An excreta material which is composed primarily of sweat, an excreta consisting primarily of water as well as a smaller amount of sodium chloride that is excreted by the sweat glands in the skin of mammals.|
+|ENVO:00002982|clay|A group of hydrous aluminium phyllosilicate (phyllosilicates being a subgroup of silicate minerals) minerals (see clay minerals), that are typically less than 2 micrometres in diameter. Clay consists of a variety of phyllosilicate minerals rich in silicon and aluminium oxides and hydroxides which include variable amounts of structural water.|
+|ENVO:01001396|&nbsp;&nbsp;&nbsp;&nbsp;abyssal clay|Clay which is part of an abyssal plain.|
+|ENVO:00003031|animal manure|animal manure|
+|ENVO:00003032|&nbsp;&nbsp;&nbsp;&nbsp;fresh animal manure|fresh animal manure|
+|ENVO:00003859|&nbsp;&nbsp;&nbsp;&nbsp;horse manure|horse manure|
+|ENVO:00003860|&nbsp;&nbsp;&nbsp;&nbsp;pig manure|Manure which is primarily composed of pig feces.|
+|ENVO:00003884|&nbsp;&nbsp;&nbsp;&nbsp;farmyard manure|farmyard manure|
+|ENVO:00003927|&nbsp;&nbsp;&nbsp;&nbsp;stable manure|stable manure|
+|ENVO:01001116|&nbsp;&nbsp;&nbsp;&nbsp;bovine dairy liquid manure|Manure which has been collected directly or indirectly from dairy cattle, as from flushing of manure from concrete feed lanes, free stalls, and milking facilities.|
+|ENVO:01001117|&nbsp;&nbsp;&nbsp;&nbsp;poultry manure|Manure which is composed primarily of the feces of poultry.|
+|ENVO:01001118|&nbsp;&nbsp;&nbsp;&nbsp;heat-treated animal manure|Manure which has been subjected to heat treatment for solidification and/or sterilization purposes.|
+|ENVO:01001119|&nbsp;&nbsp;&nbsp;&nbsp;composted animal manure|Manure which has been subjected to a natural process of 'rotting' or decomposition of its organic matter content by microorganisms under controlled conditions.|
+|ENVO:02000084|&nbsp;&nbsp;&nbsp;&nbsp;goat manure|goat manure|
+|ENVO:00003930|scum|A layer of impurities that accumulates at the surface of a liquid (especially water or molten metal).|
+|ENVO:00005794|&nbsp;&nbsp;&nbsp;&nbsp;water scum|water scum|
+|ENVO:00005738|foam|foam|
+|ENVO:00005739|&nbsp;&nbsp;&nbsp;&nbsp;sea foam|sea foam|
+|ENVO:00010505|aerosol|Airborne solid particles (also called dust or particulate matter (PM)) or liquid droplets.|
+|ENVO:01000838|&nbsp;&nbsp;&nbsp;&nbsp;smoke|smoke|
+|ENVO:01001088|&nbsp;&nbsp;&nbsp;&nbsp;aerosolised liquids|An aerosol which has non-gaseous parts that are primarily composed of liquid droplets.|
+|ENVO:01000844|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fog|A visible mass of cloud water droplets or ice crystals suspended in the air at or near a planetary surface.|
+|ENVO:01000842|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;smog|A fog which is intermixed with smoke or other combustion products and their derivatives.|
+|ENVO:01001258|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vog|A fog which is composed of liquid aerosols and gases derived from volcanic gas emissions (primarily sulfur oxides), formed when sulfur-bearing gases react with sunlight, oxygen, and moisture in an atmosphere.|
+|ENVO:01001458|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mist|A visible mass of water droplets or ice crystals suspended in the air at or near a planetary surface, formed when humid air cools rapidly.|
+|ENVO:01001089|&nbsp;&nbsp;&nbsp;&nbsp;aerosolised solids|An aerosol which has non-gaseous parts that are primarily composed of solid particles.|
+|ENVO:01000405|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;respirable suspended particulate matter|A portion of respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of 10 micrometers or less.|
+|ENVO:01000415|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fine respirable suspended particulate matter|A portion of fine respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of 2.5 micrometers or less.|
+|ENVO:01000416|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ultrafine respirable suspended particulate matter|A portion of fine respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of  100 nanometers or less.|
+|ENVO:01001402|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;haze|An aersolised mass of dust, smoke, or other dry particulates which scatters visible light thus obsscuring  visibility through an atmosphere.|
+|ENVO:00010506|emulsion|A mixture of two immiscible (unblendable) substances. One substance (the dispersed phase) is dispersed in the other (the continuous phase).|
+|ENVO:0010001|anthropogenic environmental material|Anthropogenic material in or on which organisms may live.|
+|ENVO:00000003|&nbsp;&nbsp;&nbsp;&nbsp;mine tailing|Mine tailings are the materials left over after the process of separating the valuable fraction from the uneconomic fraction (gangue) of an ore.|
+|ENVO:00002044|&nbsp;&nbsp;&nbsp;&nbsp;sludge|The residual semi-solid material left from domestic or industrial processes, or wastewater treatment processes.|
+|ENVO:00002046|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activated sludge|activated sludge|
+|ENVO:00002057|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raw primary sludge|raw primary sludge|
+|ENVO:00002058|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secondary sludge|secondary sludge|
+|ENVO:00002059|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biosolids|A treated form of sludge, sometimes used as a fertilizer in agriculture.|
+|ENVO:00002129|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anaerobic sludge|anaerobic sludge|
+|ENVO:00003965|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anaerobic digester sludge|anaerobic digester sludge|
+|ENVO:00002176|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contaminated sludge|contaminated sludge|
+|ENVO:00002060|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oil sludge|A solid or gel in motor oil caused by the oil gelling or solidifying, usually at temperatures lower than 100deg C.|
+|ENVO:00002177|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,4-dioxane contaminated sludge|1,4-dioxane contaminated sludge|
+|ENVO:00002212|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thermophilic granular sludge|thermophilic granular sludge|
+|ENVO:00005796|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marine sludge|marine sludge|
+|ENVO:00002870|&nbsp;&nbsp;&nbsp;&nbsp;adobe|A natural building material mode from sand, clay, water, and some kind of fibrous or organic material (sticks, straw, and/or manure).|
+|ENVO:00003076|&nbsp;&nbsp;&nbsp;&nbsp;glue|Glue is any substance applied to the surfaces of materials that binds them together and resists separation.|
+|ENVO:0010003|&nbsp;&nbsp;&nbsp;&nbsp;agricultural environmental material|agricultural environmental material|
+|ENVO:00002170|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compost|The aerobically decomposed remnants of organic materials.|
+|ENVO:00002171|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hay compost|hay compost|
+|ENVO:00003033|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mushroom compost|A compost which generally consists of a combination of wheat straw, dried blood, horse manure and ground chalk, composted together and is the residual compost waste generated by industrial mushroom production.|
+|ENVO:00002869|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hay|Hay is grass, legumes or other herbaceous plants that have been cut, dried, and stored for use as animal fodder, particularly for grazing livestock such as cattle, horses, goats, and sheep.|
+|ENVO:00003030|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silage|A fermented, high-moisture forage that can be fed to ruminants.|
+|ENVO:00003071|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grass silage|grass silage|
+|ENVO:00003900|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rye grass silage|rye grass silage|
+|ENVO:00003978|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;potato silage|potato silage|
+|ENVO:00003869|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;straw|An agricultural byproduct, the dry stalk of a cereal plant, after the nutrient grain or seed has been removed.|
+|ENVO:00003870|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rice straw|rice straw|
+|ENVO:01000473|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thatch|Thatch is material composed of dry vegetation such as straw, water reed, sedge (Cladium mariscus), rushes, or heather.|
+|ENVO:01001113|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forage material|Material which is primarily conposed of the vegetation present in tended pastures: mainly grasses, with an interspersion of legumes and other forbs.|
+|ENVO:02000053|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hide|A skin obtained from animals for human use typically from deer or cattle sources used to produce leather, shoes, fashion accessories, musical instruments.|
+|ENVO:01000404|&nbsp;&nbsp;&nbsp;&nbsp;plastic|A (portion of) plastic is an (portion of) anthropogenic environmental material including any of numerous organic synthetic or processed materials which are primarily composed of thermoplastic or thermosetting polymers of high molecular weight.|
+|ENVO:01000458|&nbsp;&nbsp;&nbsp;&nbsp;concrete|Concrete is a composite material composed of an aggregate bonded together with a fluid cement which hardens over time.|
+|ENVO:01000459|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asphalt concrete|Asphaltic concrete is a concrete which uses refined asphalt as a cement.|
+|ENVO:01000461|&nbsp;&nbsp;&nbsp;&nbsp;refined asphalt|Refined asphalt is a sticky, black, and highly viscous liquid or semi-solid with a boiling point above 500 degrees Celsius, obtained from the fractional distillation of crude oil.|
+|ENVO:01000462|&nbsp;&nbsp;&nbsp;&nbsp;masonry cement|Masonry cement is a substance used in construction that has the disposition to set and harden and thus may be used to bind materials together.|
+|ENVO:01000463|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hydraulic cement|Hydraulic cement is a masonry cement which contains activated aluminium silicates or pozzolans, such as fly ash, allowing it to set in wet conditions or underwater.|
+|ENVO:01000464|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;non-hydraulic cement|Non-hydraulic cement is a cement which sets by reacting with carbon dioxide in the air and will not set in wet conditions or underwater. It is susceptible to attack by aggresive chemicals after setting.|
+|ENVO:01000474|&nbsp;&nbsp;&nbsp;&nbsp;brick material|A portion of brick material is a material derived from a brick which is composed of  kneaded clay-bearing soil, expanded clay aggregate, sand and lime, or concrete that has been fire-hardened or air-dried.|
+|ENVO:01000476|&nbsp;&nbsp;&nbsp;&nbsp;plaster|Plaster is a building material which has the disposition to harden when it reacts with water, liberating heat through crystallization. Plaster is manufactured as a dry powder and is mixed with water to form a paste when used.|
+|ENVO:01000477|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gypsum plaster|Gypsum plaster is a plaster which is formed by partially dehydrating gypsum by heating it to approximately 150 degrees Celsius and grinding the product into a powder. Gypsum anhydride - formed by heating gypsum above 200 degrees Celsius - may also be used as plaster.|
+|ENVO:01000478|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cement plaster|cement plaster|
+|ENVO:01000479|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lime plaster|Lime plaster is a plaster which is primarily composed of calcium hydroxide and an inert filler (such as sand). Coversion of the calcium hydroxide to calcium carbonate through a reaction with carbon dioxide in the air causes the plaster to set.|
+|ENVO:02000043|&nbsp;&nbsp;&nbsp;&nbsp;biological product|A biological product is an environmental substrate comprised of any virus, therapeutic serum, toxin, antitoxin, or analogous product available to prevent, treat or cure diseases or injuries in man.|
+|ENVO:02000123|&nbsp;&nbsp;&nbsp;&nbsp;paint|Any liquid, liquefiable, or mastic composition that, after application to a substrate in a thin layer, converts to a solid film. It is most commonly used to protect, color, or provide texture to objects.|
+|ENVO:02000124|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lead paint|Paint that contains lead.|
+|ENVO:01000001|mud|A liquid or semi-liquid mixture of water and some combination of soil, silt, and clay.|
+|ENVO:00002122|&nbsp;&nbsp;&nbsp;&nbsp;arsenic-rich mud|Mud which has elevated concentrations of arsenic.|
+|ENVO:00002133|&nbsp;&nbsp;&nbsp;&nbsp;anaerobic mud|Mud which has no or neglible concentrations of dissolved oxygen.|
+|ENVO:00002160|&nbsp;&nbsp;&nbsp;&nbsp;estuarine mud|Mud which is part of an estuary.|
+|ENVO:00005795|&nbsp;&nbsp;&nbsp;&nbsp;marine mud|Mud which is part of a marine ecosystem.|
+|ENVO:00005797|&nbsp;&nbsp;&nbsp;&nbsp;lake bottom mud|Mud which constitutes the bed of a lake.|
+|ENVO:01000016|silt|Silt is granular material of a size somewhere between sand and clay whose mineral origin is quartz and feldspar.|
+|ENVO:01000017|sand|A naturally occurring granular material composed of finely divided rock and mineral particles.|
+|ENVO:00002118|&nbsp;&nbsp;&nbsp;&nbsp;sea sand|sea sand|
+|ENVO:00002138|&nbsp;&nbsp;&nbsp;&nbsp;beach sand|beach sand|
+|ENVO:00002148|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coarse beach sand|coarse beach sand|
+|ENVO:00005798|&nbsp;&nbsp;&nbsp;&nbsp;acid dune sand|acid dune sand|
+|ENVO:00005799|&nbsp;&nbsp;&nbsp;&nbsp;rocky sand|rocky sand|
+|ENVO:00005800|&nbsp;&nbsp;&nbsp;&nbsp;desert sand|Sand which is part of a desert.|
+|ENVO:01000350|&nbsp;&nbsp;&nbsp;&nbsp;autoclaved sand|Autoclaved sand is sand that has been sterlised by exposure to high pressure saturated steam at at least 121 degrees Celsius.|
+|ENVO:01000018|gravel|Gravel is an environmental material which is composed of pieces of rock that are at least two millimeters (2mm) in its largest dimension and no more than 75 millimeters.|
+|ENVO:01000060|particulate matter|Particulate material is an environmental material which is composed of microscopic portions of solid or liquid material suspended in another environmental material.|
+|ENVO:00002008|&nbsp;&nbsp;&nbsp;&nbsp;dust|Minute solid particles with diameters less than 500 micrometers. Occurs in and may be deposited from, the atmosphere.|
+|ENVO:01001282|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silica dust|Dust which is composed primarily of slicon dioxide.|
+|ENVO:01001283|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aluminium dust|Dust which is primarily composed of aluminium particles.|
+|ENVO:01001284|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;barium dust|Dust which is primarily composed of barium particles.|
+|ENVO:01001285|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;talc dust|Dust which is primarily composed of hydrated magnesium silicate (talc) particles.|
+|ENVO:01001286|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slate dust|Dust which is primarily composed of slate particles.|
+|ENVO:01001288|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kaolin dust|Dust which is primarily composed of kaolinite particles.|
+|ENVO:02000099|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coal dust|Dust which is derived from coal.|
+|ENVO:02000100|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mineral dust|Dust which is derived from mineral material.|
+|ENVO:02000101|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fibrous dust|Dust which is composed of fibrous material.|
+|ENVO:02000102|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fibrous glass dust|fibrous glass dust|
+|ENVO:02000106|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asbestos dust|asbestos dust|
+|ENVO:02000103|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metallic dust|Dust which is composed primarily of some metallic material.|
+|ENVO:02000104|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cement dust|cement dust|
+|ENVO:02000105|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clay dust|Dust which is derived from clay material.|
+|ENVO:02000109|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dust from plant parts|dust from plant parts|
+|ENVO:02000107|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grain dust|Dust that comes from grain and all the other substances associated with its cultivation & harvesting.|
+|ENVO:02000108|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cotton dust|cotton dust|
+|ENVO:01000436|&nbsp;&nbsp;&nbsp;&nbsp;waterborne particulate matter|Waterborne particulate matter is a form of particulate matter in which small portions of solid material are surrounded by water.|
+|ENVO:03000021|&nbsp;&nbsp;&nbsp;&nbsp;soot|Particulate matter primarily composed of carbon particles formed through the incomplete combustion of hydrocarbons.|
+|ENVO:03000038|&nbsp;&nbsp;&nbsp;&nbsp;cryoconite deposit|Particulate matter which is composed primarily of dust, rock, and soot, as well as the microbial communities associated with these materials, deposited on an ice mass by an aeolian process.|
+|ENVO:01000155|organic material|Environmental material derived from living organisms and composed primarily of one or more biomacromolecules.|
+|ENVO:00002040|&nbsp;&nbsp;&nbsp;&nbsp;wood|wood|
+|ENVO:00002135|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;treated wood|treated wood|
+|ENVO:00002136|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arsenate treated wood|arsenate treated wood|
+|ENVO:01000000|&nbsp;&nbsp;&nbsp;&nbsp;humus|Organic matter in soil which has reached a point of stability, where it will break down no further and might, if conditions do not change, remain essentially as it is for centuries, or millennia.|
+|ENVO:01000063|&nbsp;&nbsp;&nbsp;&nbsp;planktonic material|A portion of planktonic material is a portion of environmental material primarily composed of plankton.|
+|ENVO:01000156|&nbsp;&nbsp;&nbsp;&nbsp;biofilm material|Material derived from a biofilm, an aggregate of microorganisms in which cells adhere to each other and/or to a surface. These adherent cells are frequently embedded within a self-produced matrix of extracellular polymeric substance (EPS). Biofilm EPS, which is also referred to as slime, is a polymeric conglomeration generally composed of extracellular DNA, proteins, and polysaccharides in various configurations.|
+|ENVO:01000157|&nbsp;&nbsp;&nbsp;&nbsp;microbial mat material|Material derived from a microbial mat, a multi-layered sheet of micro-organisms, mainly bacteria and archaea. Microbial mats create a wide range of internal chemical environments.|
+|ENVO:01000349|&nbsp;&nbsp;&nbsp;&nbsp;root matter|An organic material primarily composed of a portion of plant root.|
+|ENVO:01000560|&nbsp;&nbsp;&nbsp;&nbsp;charcoal|Charcoal is a light, black residue, consisting of carbon and any remaining ash, obtained by removing water and other volatile constituents from animal and vegetation substances. Charcoal is usually produced by slow pyrolysis, the heating of wood or other substances in the absence of oxygen.|
+|ENVO:2000007|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biochar|charcoal that is used as a soil amendment.|
+|ENVO:01000628|&nbsp;&nbsp;&nbsp;&nbsp;plant litter|Leaf litter is dead plant material, such as leaves, bark, needles, and twigs, that has fallen to the ground.|
+|ENVO:01001103|&nbsp;&nbsp;&nbsp;&nbsp;detritus|An organic material which is primarily composed of dead particulate matter.|
+|ENVO:01000158|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;marine snow|Marine snow is a continuous shower of mostly organic detritus falling from the upper layers of the water column. Its origin lies in activities within the productive photic zone.|
+|ENVO:01001121|&nbsp;&nbsp;&nbsp;&nbsp;plant matter|Organic material which is primarily composed of plant structures, living or dead.|
+|ENVO:01001189|&nbsp;&nbsp;&nbsp;&nbsp;algal material|algal material|
+|ENVO:01001231|&nbsp;&nbsp;&nbsp;&nbsp;kerogen|Organic material which is in a solid phase and contained in sedimentary rock.|
+|ENVO:01001232|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sapropelic kerogen|Kerogen which cotains alginite, amorphous organic matter, cyanobacteria, freshwater algae, and land plant resins, thus having a hydrogen to carbon ratio above 1.25, and oxygen to carbon ratio below 0.15, readily produces liquid hydrocarbons, has reduced concentrations of aromatic structures, and primarily derived from proteins and lipids.|
+|ENVO:01001233|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;labile kerogen|Kerogen from which heavy hydrocarbons (such as oils) are derived following chemical break down.|
+|ENVO:01001234|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recalcitrant kerogen|Kerogen from which light hydrocarbons (such as hydrocarbon gases) are derived following chemical break down.|
+|ENVO:01001235|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;planktonic kerogen|Kerogen which is enriched in sulfur compounds, has a hydrogen to carbon ratio under 1.25, an oxygen to carbon ratio between 0.03 and 0.18, derives into mixtures of hydrocarbon gas and oil, and derives from marine organic materials (primarily lipids) which are formed in reducing environments.|
+|ENVO:01001236|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sulfrous kerogen|Planktonic kerogen which has high concentrations of sulfur compounds.|
+|ENVO:01001237|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humic kerogen|Kerogen which derives from land plants, resembles wood or coral in structure, has a hydrogen to carbon ratio under 1, an oxygen to carbon ratio between 0.03 to 0.3, and which primarily produces coal or hydrocarbon gas on degradation.|
+|ENVO:01001238|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;residual kerogen|Kerogen which has a hydrogen to carbon ratio less than  0.5 and primarily composed of polycyclic aromatic hydrocarbons.|
+|ENVO:01001391|&nbsp;&nbsp;&nbsp;&nbsp;gill tissue material|gill tissue material|
+|ENVO:01001392|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mussel gill tissue material|mussel gill tissue material|
+|ENVO:01001393|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bathymodiolus gill tissue material|Bathymodiolus gill tissue material|
+|ENVO:01001395|&nbsp;&nbsp;&nbsp;&nbsp;necromass|Biomass which is composed primarily of dead organisms, their parts, or their organic derivatives.|
+|ENVO:02000019|&nbsp;&nbsp;&nbsp;&nbsp;bodily fluid material|An organic material which is primarily composed of some natural bodily fluid or secretion such as blood, semen, saliva, blood plasma, intracellular and interstitial fluids.|
+|ENVO:00000338|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vomit material|A bodily fluid material which is composed primarily of vomit, a bodily fluid consisting of the expulsed contents of the stomach of an organism disgorged through the mouth or nose.|
+|ENVO:02000020|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blood material|A bodily fluid material which is composed primarily of blood, a bodily fluid composed of blood plasma and blood cells suspended within the plasma that circulates around the organism's body. Blood performs may important functions including the supplying of oxygen and nutrients, removal of waste, circulation of white blood cells, detection of antibodes, coagulation, transportation of antibodies and the regulation of pH and body temperature.|
+|ENVO:02000021|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;amniotic fluid material|A bodily fluid material which is composed primarily of amniotic fluid, a bodily fluid consisting of watery liquid surrounding and cushioning a growing fetus within the amnion. It allows the fetus to move freely without the walls of the uterus being too tight against its body. Buoyancy is also provided.|
+|ENVO:02000022|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;excreta material|A bodily fluid material which is composed primarily of excreta, bodily fluids consisting of matter which contains the waste products of biological processes, including urine or feces, discharged from an organism's body.|
+|ENVO:00002003|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fecal material|An excreta material which is composed primarily of feces, an excreta consisting of waste products expelled from an animal's digestive tract through the anus (or cloaca) during defecation.|
+|ENVO:00002047|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urine material|An excreta material which is composed primarily of urine, a liquid excreta containing water and waste products made by the kidneys, stored in the bladder, and leaves the body through the urethra.|
+|ENVO:02000025|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweat material|An excreta material which is composed primarily of sweat, an excreta consisting primarily of water as well as a smaller amount of sodium chloride that is excreted by the sweat glands in the skin of mammals.|
+|ENVO:02000023|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bile material|A bodily fluid material which is composed primarily of bile, a bodily fluid consisting of a bitter, yellow or green alkaline fluid secreted by hepatocytes from the liver of most vertebrates. In many species, bile is stored in the gallbladder between meals and upon eating is discharged into the duodenum where the bile aids the process of digestion of lipids.|
+|ENVO:02000024|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aqueous humour material|A bodily fluid material which is composed primarily of aqueous humour, a bodily fluid consisting of a thick watery substance that fills the space between the lens and the cornea.|
+|ENVO:02000026|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chyme material|A bodily fluid material which is composed primarily of chyme, a bodily fluid consisting of a liquid substance found in the stomach before passing through the pyloric valve and entering the duodenum. It results from the mechanical and chemical breakdown of a bolus and consists of partially digested food, water, hydrochloric acid, and various digestive enzymes.|
+|ENVO:02000027|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blood plasma material|A bodily fluid material which is composed primarily of blood plasma, a bodily fluid that comprises the liquid component of blood, in which the blood cells are suspended. It makes up about 55% of total blood volume.|
+|ENVO:02000028|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ear wax material|A bodily fluid material which is composed primarily of ear wax, a bodily fluid consisting of a yellowish, waxy substance secreted in the ear canal of humans and many other mammals. It plays an important role in the human ear canal, assisting in cleaning and lubrication, and also provides some protection from bacteria, fungi, and insects.|
+|ENVO:02000029|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cerebrospinal fluid material|A bodily fluid material which is composed primarily of cerebrospinal fluid, a clear bodily fluid that occupies the subarachnoid space and the ventricular system around and inside the brain. CSF is a clear bodily fluid that occupies the subarachnoid space and the ventricular system around and inside the brain.|
+|ENVO:02000030|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chyle material|A bodily fluid material which is composed primarily of chyle, a bodily fluid consisting of a milky fluid consisting of lymph and emulsified fats; formed in the small intestine during digestion of ingested fats.|
+|ENVO:02000031|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;breast milk material|A bodily fluid material which is composed primarily of breast milk, is a bodily fluid produced that is secreted from two milk-secreting glandular organs on a female's chest.|
+|ENVO:02000032|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vitreous humor material|A bodily fluid material which is composed primarily of vitreous humor, a bodily fluid consisting of a clear gel that fills the space between the lens and the retina of the eyeball of humans and other vertebrates.|
+|ENVO:02000033|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pleural effusion material|A bodily fluid material which is composed primarily of a pleural effusion, a bodily fluid that is produced in excess and accumulates in the pleural cavity, the fluid-filled space that surrounds the lungs. Excessive amounts of such fluid can impair breathing by limiting the expansion of the lungs during inhalation.|
+|ENVO:02000034|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tear material|A bodily fluid material which is composed primarily of a volume of tears, a bodily fluid consisting of a drop of the clear salty liquid secreted by glands (lacrimal glands) in the eyes. Tears wet the membrane covering the eye and help rid the eye of irritating substances.|
+|ENVO:02000035|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oronasal secretion material|A bodily fluid material which is composed primarily of an oronasal secretion, a bodily fluid secreted from the body via the mouth or nose.|
+|ENVO:02000036|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saliva material|A bodily fluid material which is composed primarily of saliva, a slightly alkaline secretion of water, mucin, protein, salts, and often a starch-splitting enzyme (as ptyalin) that is secreted into the mouth by salivary glands, lubricates ingested food, and often begins the breakdown of starches.|
+|ENVO:02000037|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sebum material|A bodily fluid material which is composed primarily of sebum, an oily bodily fluid secreted from the sebaceous glads that is made of fat (lipids) and the debris of dead fat-producing cells. In the glands, sebum is produced within specialized cells and is released as these cells burst. Sebum acts to protect and waterproof hair and skin, and keep them from becoming dry, brittle and cracked. It can also inhibit the growth of microorganisms on skin.|
+|ENVO:02000038|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pus material|A bodily fluid material which is composed primarily of pus, a bodily fluid consisting of a whitish-yellow or yellow substance produced during inflammatory responses of the body that can be found in regions of pyogenic bacterial infections. Pus is produced from the dead and living cells which travel into the intercellular spaces around the affected cells.|
+|ENVO:02000039|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;synovial fluid material|A bodily fluid material which is composed primarily of synovial fluid, a bodily fluid secreted by the synovial membrane into the joint cavity to form a thin layer at the surface of cartilage.|
+|ENVO:02000040|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mucus material|A bodily fluid material which is composed primarily of mucus, a bodily fluid consisting of a slippery secretion of the lining of the mucous membranes in the body. It is a viscous colloid containing antiseptic enzymes (such as lysozyme) and immunoglobulins. Mucus is produced by goblet cells in the mucous membranes that cover the surfaces of the membranes. It is made up of mucins and inorganic salts suspended in water.|
+|ENVO:02000041|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lymph material|A bodily fluid material which is composed primarily of lymph, a bodily fluid consisting of a usually clear coagulable fluid that passes from intercellular spaces of body tissue into the lymphatic vessels, is discharged into the blood by way of the thoracic duct and right lymphatic duct, and resembles blood plasma in containing white blood cells and especially lymphocytes but normally few red blood cells and no platelets.|
+|ENVO:02000042|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;interstitial fluid material|A bodily fluid material which is composed primarily of interstitial fluid, a bodily fluid consisting of a solution which bathes and surrounds the cells of multicellular animals. It is the main component of the extracellular fluid, which also includes plasma and transcellular fluid.|
+|ENVO:1000746|&nbsp;&nbsp;&nbsp;&nbsp;marine mucilage|A gelatinous material primarily composed of exopolymeric compounds with colloidal properties, formed through the aggregation of marine snow particles, often found in large sheets,  flocs, and clouds.|
+|ENVO:01000231|lava|Lava is a mixture of molten or semi-molten rock, volatiles, and solids which has extruded beyond a planetary crust.|
+|ENVO:01000232|&nbsp;&nbsp;&nbsp;&nbsp;felsic lava|Felsic lava is lava which is high in silica (> 69 percent by weight), aluminium, potassium, sodium, and calcium, forming a polymerized liquid rich in feldspar and quartz. Felsic lava has a  higher viscosity than other magma types. Felsic magmas can erupt at temperatures as low as 650 to 750 Â°C. Unusually hot (>950 Â°C) rhyolite lavas, however, may flow for distances of many tens of kilometres|
+|ENVO:01000233|&nbsp;&nbsp;&nbsp;&nbsp;intermediate lava|Intermediate lava is lava which, relative to felsic lava, is lower in aluminium and silica (between 52 and 63 percent by weight), and usually somewhat richer in magnesium and iron. The temperature of intermediate lava ranges from 750 to 950 degrees Celsius, destroying polymerized bonds and promoting more fluid behaviour relative to felsic lavas and also a greater tendency to form phenocrysts. Higher iron and magnesium tends to manifest as a darker groundmass, and also occasionally amphibole or pyroxene phenocrysts.|
+|ENVO:01000234|&nbsp;&nbsp;&nbsp;&nbsp;mafic lava|Mafic lava is lava which, relative to other lava types other than ultramafic lava, has a  high ferromagnesian content and low aluminium and silica content, with silca making up between 45 and 52 percent of its weight. Mafic lava generally erupts at temperatures in excess of 950 degrees Celsius. The high temperature and low polymerisation in mafic lava favors low viscosity and chemical diffusion, promoting the formation of large, well-formed phenocrysts.|
+|ENVO:01000235|&nbsp;&nbsp;&nbsp;&nbsp;ultramafic lava|Ultramafic lava is lava which, relative to other lava types, has very high magnesium oxide content and less than 45 percent silica by weight is thought to have erupted at temperatures of 1600 degrees Celsius. Due to its high temperature and composition, the viscosity of ultramafic lava is very low.|
+|ENVO:01000444|&nbsp;&nbsp;&nbsp;&nbsp;dacitic lava|dacitic lava|
+|ENVO:01000406|snow|Snow is an environmental material which is primarily composed of flakes of crystalline water ice.|
+|ENVO:03000000|&nbsp;&nbsp;&nbsp;&nbsp;neve|Partially compacted granular snow, which has undergone several cycles of melting and refreezing while being compacted, usually found on the atmosphere-exposed surface of a glacier.|
+|ENVO:03000002|&nbsp;&nbsp;&nbsp;&nbsp;firn|Granular snow which contains a proportion of fused granules formed through melting and re-thawing while being compacted by the weight of overlying material and which contains interconnected gaseous pores.|
+|ENVO:03000027|&nbsp;&nbsp;&nbsp;&nbsp;powdery snow|Uncompacted snow containing trapped atmospheric gases.|
+|ENVO:03000108|&nbsp;&nbsp;&nbsp;&nbsp;slab snow|Snow which is cohesive, hard and overlies weaker snow.|
+|ENVO:01000575|wax|A wax is an environmental material which is primarily composed of lipids or other organic compounds that consist of long alkyl chains. Waxes are are malleable near ambient temperatures and melt at approximately 45 degrees Celsius.|
+|ENVO:02000117|&nbsp;&nbsp;&nbsp;&nbsp;natural wax|A wax that is naturally synthesized by a plant or animal.|
+|ENVO:02000118|&nbsp;&nbsp;&nbsp;&nbsp;paraffin wax|A white or colourless soft solid derivable from petroleum, coal or oil shale, that consists of a mixture of hydrocarbon molecules containing between twenty and forty carbon atoms.|
+|ENVO:01000637|outer space|Outer space is a hard vacuum containing a low density of particles, predominantly a plasma of hydrogen and helium as well as electromagnetic radiation, magnetic fields, neutrinos, dust and cosmic rays that exists between celestial bodies.|
+|ENVO:01000648|magma|Magma is a mixture of molten or semi-molten rock, volatiles, and solids that is found beneath the uppermost solid layer of a planetary body. Besides molten rock, magma may also contain suspended crystals, dissolved gas and sometimes gas bubbles.|
+|ENVO:01000660|tephra|Tephra is fragmental material produced by a volcanic eruption regardless of composition, fragment size or emplacement mechanism.|
+|ENVO:01000701|volcanic ash|Volcanic ash is an environmental material which consists of fragments of pulverized rock, minerals, and volcanic glass, created during volcanic eruptions and measuring less than 2 millimetres in diameter. Volcanic ash is formed during explosive volcanic eruptions, phreatomagmatic eruptions and during transport in pyroclastic density currents.|
+|ENVO:01001186|&nbsp;&nbsp;&nbsp;&nbsp;acidic volcanic ash|Volcanic ash which has increased levels of molecules or ions capable of donating a hydron (proton or hydrogen ion) to other chemical entities, or, alternatively, capable of forming covalent bonds with other chemicals via the acceptance of an electron pair, resulting in a bulk pH measurement of less than 7.|
+|ENVO:01000797|gaseous environmental material|A material entity which is composed of one or more chemical entities and has neither independent shape nor volume but tends to expand indefinitely.|
+|ENVO:00002005|&nbsp;&nbsp;&nbsp;&nbsp;air|The mixture of gases (roughly (by molar content/volume: 78% nitrogen, 20.95% oxygen, 0.93% argon, 0.038% carbon dioxide, trace amounts of other gases, and a variable amount (average around 1%) of water vapor) that surrounds the planet Earth.|
+|ENVO:01000676|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contaminated air|Contaminated air is air which has sufficient concentrations of environmental pollutants such that it may adversely affect a given ecosystem.|
+|ENVO:01000828|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humid air|Air which has increased levels of water vapour.|
+|ENVO:01000829|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water vapour saturated air|Air which has a partial pressure of water vapour equal or near equal to its equilibrium vapor pressure at a given temperature.|
+|ENVO:01000266|&nbsp;&nbsp;&nbsp;&nbsp;water vapour|Water vapour is a vapour which is the gas phase of water.|
+|ENVO:01000268|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;atmospheric water vapour|Atmospheric water vapour is water vapour that is part of an atmosphere.|
+|ENVO:01000451|&nbsp;&nbsp;&nbsp;&nbsp;atmospheric carbon dioxide|Atmospheric carbon dioxide is an environmental material composed of carbon dioxide in its gaseous form present in an atmosphere.|
+|ENVO:01000770|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;carbon dioxide emission|A volume of carbon dioxide gas emitted by a carbon dioxide emission process.|
+|ENVO:01000537|&nbsp;&nbsp;&nbsp;&nbsp;atmospheric ozone|Atmospheric ozone is an environmental material primarily composed of ozone in its gaseous form and present in an atmosphere.|
+|ENVO:01000554|&nbsp;&nbsp;&nbsp;&nbsp;hydrocarbon gas|A gas that is primarily composed of hydrocarbon molecules.|
+|ENVO:01000552|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;natural gas|Natural gas is a hydrocarbon gas mixture consisting primarily of methane, but commonly includes varying amounts of other higher alkanes and sometimes a usually lesser percentage of carbon dioxide, nitrogen, and/or hydrogen sulfide. Natural gas is a fossil fuel formed when layers of buried plants and gases are exposed to intense heat and pressure over thousands of years.|
+|ENVO:01000555|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compressed natural gas|Compressed natural gas is a natural gas stored at high pressures, typically 20â25 Megapascals.|
+|ENVO:01000556|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biogas|Biogas is a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen,  is primarily composed of methane and carbon dioxide, and may have small amounts of hydrogen sulfide, water, and siloxanes.|
+|ENVO:01000559|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compressed biogas|Compressed biogas is biogas stored at increased pressures.|
+|ENVO:01000789|&nbsp;&nbsp;&nbsp;&nbsp;flame|A portion of gas which is emitted by a fire or other exothermic reaction, is of increased temperature, and typically emits light in the visible range.|
+|ENVO:01000790|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hydrocarbon flame|A flame which is produced by the combustion of hydrocarbon fuel.|
+|ENVO:01000798|plasma|A material entity which is composed of a volume of unbound positive and negative particles in roughly equal numbers, conducts electricity, and possesses internal magnetic fields.|
+|ENVO:01000815|liquid environmental material|An environmental material which is in a liquid state.|
+|ENVO:00002006|&nbsp;&nbsp;&nbsp;&nbsp;liquid water|An environmental material primarily composed of dihydrogen oxide in its liquid form.|
+|ENVO:00002010|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saline water|Water which contains a significant concentration of dissolved salts.|
+|ENVO:00002012|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hypersaline water|Water which contains a highly increased concentration of dissolved salts, surpassing the average salinity of seawater.|
+|ENVO:00003044|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brine|Water saturated or nearly saturated with salt (NaCl).|
+|ENVO:00003045|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bacon curing brine|bacon curing brine|
+|ENVO:00002019|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brackish water|Water which has a higher salinity than fresh water but a lower salinity than marine water.|
+|ENVO:01000301|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estuarine water|Brackish water which is part of an estuary.|
+|ENVO:00002149|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sea water|Water which has physicochemical properties that have been determined by the processes occuring in a sea or ocean.|
+|ENVO:00002150|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coastal sea water|Coastal sea water is sea water that is adjacent to a coast.|
+|ENVO:01001037|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slightly saline water|Water which contains a slightly increased concentration of dissolved salts, relative to their concentration in freshwater.|
+|ENVO:01001038|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moderately saline water|Water which contains a moderately increased concentration of dissolved salts, relative to their concentration in freshwater.|
+|ENVO:01001039|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;highly saline water|Water which contains a highly increased concentration of dissolved salts, relative to their concentration in freshwater.|
+|ENVO:01001257|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;saline shrimp pond water|Saline water which is derived from sea water and used during the cultivation of crustaceans.|
+|ENVO:00002011|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fresh water|Water which has a low concentration of dissolved solutes, particularly that of sodium chloride.|
+|ENVO:00002158|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ditch water|ditch water|
+|ENVO:00002228|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pond water|pond water|
+|ENVO:00003064|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drinking water|Drinking water is water which may be consumed by humans with no adverse effects on their health.|
+|ENVO:00003096|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tap water|tap water|
+|ENVO:01000600|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rainwater|Rainwater is liquid water which has precipitated in the form of droplets through the condensation of atmospheric water vapour.|
+|ENVO:00002041|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ground water|ground water|
+|ENVO:00002042|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;surface water|Water that is found on the surface of an astronomical object.|
+|ENVO:00002141|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leachate|The liquid produced when water percolates through any permeable material. It can contain either dissolved or suspended material, or usually both.|
+|ENVO:00002142|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;borax leachate|borax leachate|
+|ENVO:01000134|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hydrothermal fluid|High temperature water ejected from hydrothermal vents and laden with dissolved metals and minerals as a result of percolation through crustal rocks.|
+|ENVO:00002159|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drilling bore water|drilling bore water|
+|ENVO:00002186|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contaminated water|contaminated water|
+|ENVO:00002001|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;waste water|Water that has been adversely affected in quality by anthropogenic influence.|
+|ENVO:00002018|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sewage|Wastewater that is contaminated with feces or urine,|
+|ENVO:00002193|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pulp-bleaching waste water|pulp-bleaching waste water|
+|ENVO:01000964|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;industrial wastewater|Wastewater which is produced by industrial activity and which contains chemical contaminants other than those associated with urine and fecal matter.|
+|ENVO:00002194|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oil field production water|oil field production water|
+|ENVO:00002223|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oligotrophic water|Water with a very low nutrient level.|
+|ENVO:00002224|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eutrophic water|Water with a high nutrient level.|
+|ENVO:01001018|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hypereutrophic water|Water which has a very high concentration of nutrients.|
+|ENVO:00002225|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mesotrophic water|Water with a nutrient level intermediate between eutrophic and oligotrophic.|
+|ENVO:00003065|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;distilled water|distilled water|
+|ENVO:00003097|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bore hole water|bore hole water|
+|ENVO:00005791|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sterile water|Sterile water is water which does not contain lliving organisms.|
+|ENVO:00005792|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;underground water|Water which has physicochemical properties determined by processes which occur beneath the planetary crust.|
+|ENVO:01001004|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;groundwater|Underground water which is located in pore spaces found in rock or unconsolidated deposits such as soil, clay, or gravel.|
+|ENVO:00005793|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;muddy water|muddy water|
+|ENVO:01000173|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anoxic water|Water depleted of dissolved oxygen.|
+|ENVO:01000357|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alkaline water|A portion of alkaline water is a portion of water with a pH greater than 7.|
+|ENVO:01000358|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;acidic water|A portion of acidic water is a portion of water with a pH less than 7.|
+|ENVO:01000599|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;river water|river water|
+|ENVO:01000722|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meltwater|Meltwater is the water released by the melting of snow or ice, including glacial ice, tabular icebergs and ice shelves over oceans.|
+|ENVO:01000872|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;balast water|Ballast water is water contained in the ballast tanks of sea-going vessels.|
+|ENVO:01000940|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fissure water|Water which is partially contained within a fissure or a geological fracture.|
+|ENVO:01001063|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oxic water|Water which has an appreciable concentration of dissolved oxygen.|
+|ENVO:01001064|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hypoxic water|Water depleted of dissolved oxygen.|
+|ENVO:01001267|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormwater|Water which accumulates on a solid surface during precipitation events and snow/ice melt.|
+|ENVO:01001268|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urban stormwater|Stormwater which accumulates in an urban ecosystem.|
+|ENVO:01001270|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rural stormwater|Stormwater which accumulates in a rural ecosystem.|
+|ENVO:00002985|&nbsp;&nbsp;&nbsp;&nbsp;oil|A viscous liquid state at ambient temperatures or slightly warmer, and is both hydrophobic and lipophilic.|
+|ENVO:00002983|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fuel oil|fuel oil|
+|ENVO:01000551|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paraffin|Paraffin is a thin, clear liquid composed of hydrocarbons that typically contain between 6 and 16 carbon atoms per molecule. Paraffin is obtained from the fractional distillation of petroleum between 150 and 275 degrees Celsius, resulting in a mixture with a density of 0.78â0.81 grams per cubic centimetre. It is miscible in petroleum solvents but immiscible in water. Regardless of crude oil source or processing history, kerosene's major components are branched and straight chain alkanes and naphthenes (cycloalkanes), which normally account for at least 70% by volume. Aromatic hydrocarbons in this boiling range, such as alkylbenzenes (single ring) and alkylnaphthalenes (double ring), do not normally exceed 25% by volume of kerosene streams. Olefins are usually not present at more than 5% by volume.|
+|ENVO:00002984|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;petroleum|A naturally occurring flammable liquid consisting of a complex mixture of hydrocarbons of various molecular weights and other liquid organic compounds, that are found in geologic formations beneath the planetary surfaces.|
+|ENVO:01000460|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asphalt|Asphalt also known as bitumen is a sticky, black, and highly viscous liquid or semi-solid form of petroleum.|
+|ENVO:00003903|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aviation fuel|aviation fuel|
+|ENVO:01000558|&nbsp;&nbsp;&nbsp;&nbsp;liquefied hydrocarbon gas|liquefied hydrocarbon gas|
+|ENVO:01000553|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liquefied petroleum gas|Liquified petroleum gas or liquid petroleum gas (LPG or LP gas), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles.|
+|ENVO:01000557|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liquefied natural gas|Liquefied natural gas (LNG) is natural gas (predominantly methane, CH4) that has been converted to liquid form for ease of storage or transport. It takes up about 1/600th the volume of natural gas in the gaseous state. It is odorless, colorless, non-toxic and non-corrosive. LNG achieves a higher reduction in volume than compressed natural gas (CNG) so that the (volumetric) energy density of LNG is 2.4 times greater than that of CNG or 60 percent of that of diesel fuel.|
+|ENVO:02000123|&nbsp;&nbsp;&nbsp;&nbsp;paint|Any liquid, liquefiable, or mastic composition that, after application to a substrate in a thin layer, converts to a solid film. It is most commonly used to protect, color, or provide texture to objects.|
+|ENVO:02000124|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lead paint|Paint that contains lead.|
+|ENVO:01000853|marl|Marl is a mass of calcium carbonate derived from mollusk shells and mixed with silt and clay.|
+|ENVO:01000939|time crystal|An open system in non-equilibrium with its environment that exhibits time translation symmetry breaking.|
+|ENVO:01001069|metallic material|A material which is composed primarily of one or more pure metals and which shows their properties.|
+|ENVO:01001125|ice|An ice is an environmental material which is either frozen or which is maintained in a solid state by gravitational forces or pressure.|
+|ENVO:01000814|&nbsp;&nbsp;&nbsp;&nbsp;solid environmental material|An environmental material which is in a solid state.|
+|ENVO:00001995|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rock|A rock is a naturally occurring solid aggregate of one or more minerals or mineraloids.|
+|ENVO:00002013|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;igneous rock|Rock formed from molten magma.|
+|ENVO:00002014|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plutonic rock|An igneous rock that results from the crystallization of a magma below the surface of the Earth.|
+|ENVO:01000236|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;basalt|Basalt is a volcanic rock which is formed by the rapid cooling of basaltic lava.|
+|ENVO:01000356|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;granite|A portion of granite is a portion of igneous  rock which  is intrusive, felsic, granular, and phaneritic.|
+|ENVO:01000441|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andesite|Andesite is an extrusive igneous, volcanic rock, of intermediate composition, with aphanitic to porphyritic texture. In a general sense, it is the intermediate type between basalt and dacite, and ranges from 57 to 63 percent silicon dioxide as illustrated in TAS diagrams. The mineral assemblage is typically dominated by plagioclase plus pyroxene and/or hornblende. Magnetite, zircon, apatite, ilmenite, biotite, and garnet are common accessory minerals. Alkali feldspar may be present in minor amounts.|
+|ENVO:01000442|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dacite|Dacite is an igneous, volcanic rock. It has an aphanitic to porphyritic texture and is intermediate in composition between andesite and rhyolite.  Dacite consists mostly of plagioclase feldspar with biotite, hornblende, and pyroxene (augite and/or enstatite). It has quartz as rounded, corroded phenocrysts, or as an element of the ground-mass. The plagioclase ranges from oligoclase to andesine and labradorite. Sanidine occurs, although in small proportions, in some dacites, and when abundant gives rise to rocks that form transitions to the rhyolites.|
+|ENVO:00002015|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;volcanic rock|An igneous rock that results from magma reaching the surface either as lava or fragmental ejecta.|
+|ENVO:00002016|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sedimentary rock|A rock formed by deposition of either clastic sediments, organic matter, or chemical precipitates (evaporites), followed by compaction of the particulate matter and cementation during diagenesis.|
+|ENVO:00002053|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;limestone|A sedimentary rock composed largely of the mineral calcite.|
+|ENVO:00002054|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;chalk|A soft, white, porous limestone.|
+|ENVO:00003982|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;travertine|A natural chemical precipitate of carbonate minerals; typically aragonite, but often recrystallized to or primarily calcite; which is deposited from the water of mineral springs (especially hot springs) or streams saturated with calcium carbonate.|
+|ENVO:01000273|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lime mudstone|Lime mudstone is a limestone which is primarily composed of either clay-size or both silt-size and clay-size detrital (transported) carbonate grains.|
+|ENVO:00010623|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolomite|A sedimentary carbonate rock and a mineral, both composed of calcium magnesium carbonate CaMg(CO3)2 found in crystals.|
+|ENVO:01000271|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clastic sedimentary rock|Clastic sedimentary rocks are sedimentary rocks that are composed of silicate minerals and rock fragments that were transported by moving fluids. Clastic rocks are composed largely of quartz, feldspar, rock (lithic) fragments, clay minerals, and mica; numerous other minerals may be present as accessories and may be important locally.|
+|ENVO:00002055|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sandstone|A sedimentary rock composed mainly of sand-size mineral or rock grains.|
+|ENVO:00002056|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shale|A fine-grained sedimentary rock whose original constituents were clays or muds. It is characterized by thin laminae breaking with an irregular curving fracture, often splintery and usually parallel to the often-indistinguishable bedding plane.|
+|ENVO:02000119|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oil shale|An organic-rich fine-grained sedimentary rock containing kerogen from which liquid hydrocarbons called shale oil can be produced.|
+|ENVO:01000269|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siltstone|A sedimentary rock which is composed mainly of silt. This rock has a grainsize in the silt range, finer than sandstone and coarser than claystones.|
+|ENVO:01000270|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;claystone|A clastic sedimentary rock which is composed primarily of clay sized particles.|
+|ENVO:01000272|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mudstone|A mudstone is a clastic sedimentary rock which contains a mixture of at least one third of silt- and one third of clay-sized particles.|
+|ENVO:01000962|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diatomite|A sedimentary rock which is primarily composed of the fossilized, siliceous remains of diatoms mixed with varying amounts of other clays and minerals.|
+|ENVO:02000091|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coal|A combustible black or brownish-black sedimentary rock usually occurring in rock strata in layers or veins called coal beds or coal seams.|
+|ENVO:2000008|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lignite|A soft, brown, combustible, sedimentary rock formed from naturally compressed peat.|
+|ENVO:2000009|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sub-bitumous coal|sub-bitumous coal|
+|ENVO:2000010|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bitumous coal|a relatively soft coal containing a tarlike substance called bitumen or asphalt. It is of higher quality than lignite coal but of poorer quality than anthracite. It is an organic sedimentary rock formed by diagenetic and sub metamorphic compression of peat bog material.|
+|ENVO:2000011|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anthracite|A hard, compact variety of coal that has a submetallic luster. It has the highest carbon content, the fewest impurities, and the highest energy density of all types of coal and is the highest ranking of coal.|
+|ENVO:2000044|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coke|Coal heated in the absence of air.|
+|ENVO:00002017|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metamorphic rock|A rock formed by subjecting any rock type (including previously-formed metamorphic rock) to different temperature and pressure conditions than those in which the original rock was formed. These temperatures and pressures are always higher than those at the Earth's surface and must be sufficiently high so as to change the original minerals into other mineral types or else into other forms of the same minerals (e.g. by recrystallisation).|
+|ENVO:01000274|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slate|Slate is a metamorphic rock which is fine-grained, foliated, homogeneous, Slates are derived from clastic sedimentary rocks.|
+|ENVO:01000661|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tuff|Tuff is a type of rock made of volcanic ash ejected from a vent during a volcanic eruption.|
+|ENVO:01000662|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scoria|Scoria is a highly vesicular, dark colored volcanic rock that may or may not contain crystals.|
+|ENVO:01000663|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pumice|Pumice is a volcanic rock that consists of highly vesicular rough textured volcanic glass, which may or may not contain crystals.|
+|ENVO:01000751|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bedrock|A lithified mass of rock that lies under the loose softer material (regolith) at the surface of the Earth or other terrestrial planet.|
+|ENVO:01001204|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alluvial deposit|A rock which is formed as a result of the lithification of alluvium.|
+|ENVO:02000094|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ore|a type of rock that contains sufficient minerals with important elements including metals that can be economically extracted from the rock.|
+|ENVO:02000095|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uranium ore|uranium ore|
+|ENVO:02000096|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iron ore|iron ore|
+|ENVO:02000097|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gold ore|gold ore|
+|ENVO:02000098|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;platinum ore|platinum ore|
+|ENVO:02000111|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;copper ore|copper ore|
+|ENVO:00002008|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dust|Minute solid particles with diameters less than 500 micrometers. Occurs in and may be deposited from, the atmosphere.|
+|ENVO:01001282|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silica dust|Dust which is composed primarily of slicon dioxide.|
+|ENVO:01001283|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aluminium dust|Dust which is primarily composed of aluminium particles.|
+|ENVO:01001284|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;barium dust|Dust which is primarily composed of barium particles.|
+|ENVO:01001285|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;talc dust|Dust which is primarily composed of hydrated magnesium silicate (talc) particles.|
+|ENVO:01001286|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slate dust|Dust which is primarily composed of slate particles.|
+|ENVO:01001288|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kaolin dust|Dust which is primarily composed of kaolinite particles.|
+|ENVO:02000099|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coal dust|Dust which is derived from coal.|
+|ENVO:02000100|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mineral dust|Dust which is derived from mineral material.|
+|ENVO:02000101|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fibrous dust|Dust which is composed of fibrous material.|
+|ENVO:02000102|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fibrous glass dust|fibrous glass dust|
+|ENVO:02000106|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asbestos dust|asbestos dust|
+|ENVO:02000103|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metallic dust|Dust which is composed primarily of some metallic material.|
+|ENVO:02000104|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cement dust|cement dust|
+|ENVO:02000105|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clay dust|Dust which is derived from clay material.|
+|ENVO:02000109|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dust from plant parts|dust from plant parts|
+|ENVO:02000107|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grain dust|Dust that comes from grain and all the other substances associated with its cultivation & harvesting.|
+|ENVO:02000108|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cotton dust|cotton dust|
+|ENVO:00002040|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wood|wood|
+|ENVO:00002135|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;treated wood|treated wood|
+|ENVO:00002136|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arsenate treated wood|arsenate treated wood|
+|ENVO:01000000|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humus|Organic matter in soil which has reached a point of stability, where it will break down no further and might, if conditions do not change, remain essentially as it is for centuries, or millennia.|
+|ENVO:01000256|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mineral material|A mineral material is an environmental material which is primarily composed of some substance that is naturally occurring, solid and stable at room temperature, representable by a chemical formula, usually abiogenic, and that has an ordered atomic structure.|
+|ENVO:01000508|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;salt material|salt material|
+|ENVO:01000681|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sodium chloride salt|A mineral material composed primarily of sodium chloride.|
+|ENVO:02000100|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mineral dust|Dust which is derived from mineral material.|
+|ENVO:01000277|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water ice|Ice is water frozen into a solid state. It can appear transparent or opaque bluish-white color, depending on the presence of impurities or air inclusions. The addition of other materials such as soil may further alter its appearance.|
+|ENVO:01000847|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hair ice|A type of water ice that forms on dead wood with the assistance of the fungus Exidiopsis effusa and takes the shape of fine, silky hair.|
+|ENVO:01001511|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freshwater ice|freshwater ice|
+|ENVO:01001515|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freshwater congelation ice|Freshwater ice which forms on a solid substrate through the freezing of freshwater.|
+|ENVO:01001514|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;congelation ice in a fresh water body|Freshwater ice which forms downward from the surface of a freshwater water body and is transparent due to a reduced number of air bubbles trapped in its mass.|
+|ENVO:01001516|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice cave congelation ice|Freshwater congelation ice which has formed on a solid substrate in an ice cave.|
+|ENVO:01001513|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;permafrost congelation ice|Water ice which has formed in a mass of permafrost.|
+|ENVO:01001557|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water-body-derived ice|Ice which has formed as the result of freezing of water which was part of a water body.|
+|ENVO:00002200|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sea ice|Water ice which has formed by the freezing of sea water.|
+|ENVO:01001190|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brown sea ice|Sea ice which has a brown colouration, either due to 1) the presence of pigments which are or were contained in the members of ecological assemblages, such as algal communities, living or trapped within the ice or 2) due to the presence of trapped sediments.|
+|ENVO:01001512|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;congelation sea ice|Sea ice which 1) has formed on the submerged surface (i.e. the base) of an existing mass of sea ice and 2) is composed of columnar crystals due to the downward growth of the crystals into the water.|
+|ENVO:03000071|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;first year ice|Sea ice which has formed over a single freezing season.|
+|ENVO:03000072|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;second year ice|Sea ice which is thicker than first year ice, and has survived a seasonal melting process.|
+|ENVO:03000073|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multiyear ice|Sea ice which is thicker than second year ice, and has survived more than two seasonal melting process.|
+|ENVO:03000004|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glacial ice|Any water ice that is part of a glacier.|
+|ENVO:03000005|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;erosionally enriched glacial ice|Glacial ice which contains material liberated during a glacial erosion process.|
+|ENVO:03000007|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blue ice|Water ice containing little to no air bubbles resulting in a reduction of internal light scattering and, given sufficient volume, a blue appearance.|
+|ENVO:03000025|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;erosionally enriched ice|Water ice which contains material liberated during an erosion process.|
+|ENVO:03000005|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;erosionally enriched glacial ice|Glacial ice which contains material liberated during a glacial erosion process.|
+|ENVO:03000063|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new ice|Water ice which is formed from freezing water and is suspended in a water body.|
+|ENVO:01001523|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frazil|Small, needle-like (spicules), plate-like, or discoid crystals derived from nearly pure fresh water, suspended in a water body.|
+|ENVO:03000046|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frazil ice|New ice which is composed frazil which has congealed into a thin sheet.|
+|ENVO:03000075|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shuga|New ice, which is spongy, lumpy and opaque, and forms from water which freezes in an agitated water body.|
+|ENVO:03000065|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ice floe|A cohesive and contiguous sheet of water ice which floats upon the surface of a water body.|
+|ENVO:03000066|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sea ice floe|An ice floe which is formed from frozen sea water, and floats upon the surface of a marine water body.|
+|ENVO:03000067|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pancake ice|A sea ice floe which has a rounded or circular shape and raised rims.|
+|ENVO:03000068|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nilas|A sea ice floe which is thin, elastic, continuous, and of a transparent gray color, which results from the freezing of new ice.|
+|ENVO:03000069|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;young ice|A sea ice floe which is inflexible and thicker than nilas.|
+|ENVO:01000405|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;respirable suspended particulate matter|A portion of respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of 10 micrometers or less.|
+|ENVO:01000415|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fine respirable suspended particulate matter|A portion of fine respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of 2.5 micrometers or less.|
+|ENVO:01000416|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ultrafine respirable suspended particulate matter|A portion of fine respirable suspended particulate matter is a form of particulate matter composed primarily of solid particles each with a diameter of  100 nanometers or less.|
+|ENVO:01000480|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glass|Glass is an amorphous (non-crystalline) solid which is often transparent.|
+|ENVO:01000481|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;silica-based glass|Silica-based glass is a glass composed primarily of silicon dioxide, the primary constituent of sand.|
+|ENVO:01000482|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soda-lime glass|Soda-lime glass is a silica-based glass which is composed of approximately 75% silicon dioxide, with sodium oxide and calcium oxide consituting most of its remaining composition.|
+|ENVO:01000483|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flat glass|Flat glass is a soda-lime glass which is composed of approximately 73% silicon dioxide (silica), 14% sodium oxide, 9% calcium oxide, 4% magnesium oxide, 0.15% aluminium oxide, 0.03% potassium oxide, 0.02% titanum dioxide, and 0.01% iron III oxide.|
+|ENVO:01000484|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;container glass|Container glass is a soda-lime glass which is composed of approximately 74% silicon dioxide (silica), 13% sodium oxide, 10.5% calcium oxide, 1.3% aluminium oxide, 0.3% potassium oxide, 0.2% sulphur trioxide, 0.2% magnesium oxide,  0.04% iron III oxide, and 0.01%  titanum dioxide.|
+|ENVO:01000485|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;quartz glass|Quartz glass is a glass which is composed of silica in amorphous (non-crystalline) form.|
+|ENVO:01000560|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;charcoal|Charcoal is a light, black residue, consisting of carbon and any remaining ash, obtained by removing water and other volatile constituents from animal and vegetation substances. Charcoal is usually produced by slow pyrolysis, the heating of wood or other substances in the absence of oxygen.|
+|ENVO:2000007|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biochar|charcoal that is used as a soil amendment.|
+|ENVO:01000845|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;crystal|A solid material whose constituents, such as atoms, molecules or ions, are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions.|
+|ENVO:01000846|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;water ice crystal|A crystal which is primarily composed of water ice.|
+|ENVO:01000850|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clathrate material|A material which is primarily composed of a substance arranged as a lattice which can trap or contain other molecules.|
+|ENVO:01000851|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;methane clathrate|A clathrate material in which a large amount of methane is trapped within a crystal structure of water, forming a solid similar to ice.|
+|ENVO:01001121|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plant matter|Organic material which is primarily composed of plant structures, living or dead.|
+|ENVO:01001231|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kerogen|Organic material which is in a solid phase and contained in sedimentary rock.|
+|ENVO:01001232|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sapropelic kerogen|Kerogen which cotains alginite, amorphous organic matter, cyanobacteria, freshwater algae, and land plant resins, thus having a hydrogen to carbon ratio above 1.25, and oxygen to carbon ratio below 0.15, readily produces liquid hydrocarbons, has reduced concentrations of aromatic structures, and primarily derived from proteins and lipids.|
+|ENVO:01001233|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;labile kerogen|Kerogen from which heavy hydrocarbons (such as oils) are derived following chemical break down.|
+|ENVO:01001234|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recalcitrant kerogen|Kerogen from which light hydrocarbons (such as hydrocarbon gases) are derived following chemical break down.|
+|ENVO:01001235|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;planktonic kerogen|Kerogen which is enriched in sulfur compounds, has a hydrogen to carbon ratio under 1.25, an oxygen to carbon ratio between 0.03 and 0.18, derives into mixtures of hydrocarbon gas and oil, and derives from marine organic materials (primarily lipids) which are formed in reducing environments.|
+|ENVO:01001236|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sulfrous kerogen|Planktonic kerogen which has high concentrations of sulfur compounds.|
+|ENVO:01001237|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;humic kerogen|Kerogen which derives from land plants, resembles wood or coral in structure, has a hydrogen to carbon ratio under 1, an oxygen to carbon ratio between 0.03 to 0.3, and which primarily produces coal or hydrocarbon gas on degradation.|
+|ENVO:01001238|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;residual kerogen|Kerogen which has a hydrogen to carbon ratio less than  0.5 and primarily composed of polycyclic aromatic hydrocarbons.|
+|ENVO:01001525|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard-frozen soil|Frozen soil which is firmly cemented by water ice, is subject to brittle failure, and exhibits practically no consolidation under load.|
+|ENVO:01001528|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;friable-frozen soil|Frozen soil which has very low total water content and is not cemented by ice; its compressibility is the same as that of unfrozen soils having the same composition, total water content and density.|
+|ENVO:01001561|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gel|An environmental material which is solid, jelly-like, and exhibits no flow when in steady state material and which contains liquid dispersed in and held in place by cross-linked structures of a solid medium.|
+|ENVO:01001562|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hydrogel|A gel which is primarily composed of a network of polymer chains that are hydrophilic, sometimes found as a colloidal gel in which water is the dispersion medium.|
+|ENVO:01001138|&nbsp;&nbsp;&nbsp;&nbsp;carbon dioxide ice|Ice which is primarily composed of carbon dioxide.|
+|ENVO:01001139|&nbsp;&nbsp;&nbsp;&nbsp;methane ice|Ice which is primarily composed of methane.|
+|ENVO:01001140|&nbsp;&nbsp;&nbsp;&nbsp;ammonia ice|Ice which is primarily composed of ammonia.|
+|ENVO:01001141|&nbsp;&nbsp;&nbsp;&nbsp;carbon monoxide ice|Ice which is primarily composed of carbon monoxide.|
+|ENVO:01001526|&nbsp;&nbsp;&nbsp;&nbsp;frozen soil|Soil which is below the freezing point of water.|
+|ENVO:00005765|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frozen compost soil|frozen compost soil|
+|ENVO:01001525|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hard-frozen soil|Frozen soil which is firmly cemented by water ice, is subject to brittle failure, and exhibits practically no consolidation under load.|
+|ENVO:01001527|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plastic-frozen soil|Frozen soil which is cemented by water ice but has viscous properties due to its high, unfrozen water content and therefore will compress and deform under load.|
+|ENVO:01001528|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;friable-frozen soil|Frozen soil which has very low total water content and is not cemented by ice; its compressibility is the same as that of unfrozen soils having the same composition, total water content and density.|
+|ENVO:01001154|volatile astrogeological material|A material which is composed primarily of chemical elements and compounds with relatively low boiling points, equilibrium condensation temperatures below 1300 Kelvin, and which are part of the crust or atmosphere of a moon or planet.|
+|ENVO:01001126|&nbsp;&nbsp;&nbsp;&nbsp;astrogeological ice|An astrogeological volatile which is composed primarily of chemical compounds with freezing points above an approximate threshold of 100 Kelvin.|
+|ENVO:01001155|&nbsp;&nbsp;&nbsp;&nbsp;astrogeological gas|An astrogeological volatile which is composed primarily of chemical compounds with boiling points around those of hydrogen and helium.|
+|ENVO:01001156|refractory astrogeological material|A material which is composed primarily of chemical elements and compounds which have equilibrium condensation temperatures above approximately 1300 Kelvin and which are part of the crust or atmosphere of a moon or planet.|
+|ENVO:01001202|alluvium|Soil or sediment which has been eroded and influenced by flowing water and redeposited in a non-marine setting.|
+|ENVO:01001560|colloidal suspension|An environmental material which is primarily composed of a dispersed phase of insoluable particles, approximately between 1 nanometer and 1 micrometer in maximum dimension, distributed throughout a material acting as a medium of suspension.|
+|ENVO:01001563|quicksand|An environmental material which 1) is primarily composed of a fine, granular material such as sand, silt, or clay suspended in and saturated by water and 2) readily liquefies when weight is applied, losing strength and permitting objects to sink until their weight and buoyancy offset the weight of the displaced quicksand.|
+|ENVO:02000112|fume|A gas, smoke, or vapor that smells strongly or is dangerous to inhale.|
+|ENVO:02000113|&nbsp;&nbsp;&nbsp;&nbsp;welding fume|welding fume|
+|ENVO:02000116|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aluminum welding fume|aluminum welding fume|
+|ENVO:02000114|&nbsp;&nbsp;&nbsp;&nbsp;paraffin wax fume|paraffin wax fume|
+|ENVO:02000115|&nbsp;&nbsp;&nbsp;&nbsp;vanadium fume|Respirable vapor of vanadium.|
+|ENVO:02000120|&nbsp;&nbsp;&nbsp;&nbsp;zinc chloride fume|zinc chloride fume|
+|ENVO:03000076|slush ice|A slurry of frazil, snow, and liquid water.|
+|ENVO:2000045|hydrocarbon-based environmental material|hydrocarbon-based environmental material|
+|ENVO:00002985|&nbsp;&nbsp;&nbsp;&nbsp;oil|A viscous liquid state at ambient temperatures or slightly warmer, and is both hydrophobic and lipophilic.|
+|ENVO:00002983|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fuel oil|fuel oil|
+|ENVO:01000551|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paraffin|Paraffin is a thin, clear liquid composed of hydrocarbons that typically contain between 6 and 16 carbon atoms per molecule. Paraffin is obtained from the fractional distillation of petroleum between 150 and 275 degrees Celsius, resulting in a mixture with a density of 0.78â0.81 grams per cubic centimetre. It is miscible in petroleum solvents but immiscible in water. Regardless of crude oil source or processing history, kerosene's major components are branched and straight chain alkanes and naphthenes (cycloalkanes), which normally account for at least 70% by volume. Aromatic hydrocarbons in this boiling range, such as alkylbenzenes (single ring) and alkylnaphthalenes (double ring), do not normally exceed 25% by volume of kerosene streams. Olefins are usually not present at more than 5% by volume.|
+|ENVO:00002984|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;petroleum|A naturally occurring flammable liquid consisting of a complex mixture of hydrocarbons of various molecular weights and other liquid organic compounds, that are found in geologic formations beneath the planetary surfaces.|
+|ENVO:01000460|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;asphalt|Asphalt also known as bitumen is a sticky, black, and highly viscous liquid or semi-solid form of petroleum.|
+|ENVO:00003903|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aviation fuel|aviation fuel|
+|ENVO:01000554|&nbsp;&nbsp;&nbsp;&nbsp;hydrocarbon gas|A gas that is primarily composed of hydrocarbon molecules.|
+|ENVO:01000552|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;natural gas|Natural gas is a hydrocarbon gas mixture consisting primarily of methane, but commonly includes varying amounts of other higher alkanes and sometimes a usually lesser percentage of carbon dioxide, nitrogen, and/or hydrogen sulfide. Natural gas is a fossil fuel formed when layers of buried plants and gases are exposed to intense heat and pressure over thousands of years.|
+|ENVO:01000555|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compressed natural gas|Compressed natural gas is a natural gas stored at high pressures, typically 20â25 Megapascals.|
+|ENVO:01000556|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biogas|Biogas is a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen,  is primarily composed of methane and carbon dioxide, and may have small amounts of hydrogen sulfide, water, and siloxanes.|
+|ENVO:01000559|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compressed biogas|Compressed biogas is biogas stored at increased pressures.|
+|ENVO:01000558|&nbsp;&nbsp;&nbsp;&nbsp;liquefied hydrocarbon gas|liquefied hydrocarbon gas|
+|ENVO:01000553|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liquefied petroleum gas|Liquified petroleum gas or liquid petroleum gas (LPG or LP gas), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles.|
+|ENVO:01000557|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liquefied natural gas|Liquefied natural gas (LNG) is natural gas (predominantly methane, CH4) that has been converted to liquid form for ease of storage or transport. It takes up about 1/600th the volume of natural gas in the gaseous state. It is odorless, colorless, non-toxic and non-corrosive. LNG achieves a higher reduction in volume than compressed natural gas (CNG) so that the (volumetric) energy density of LNG is 2.4 times greater than that of CNG or 60 percent of that of diesel fuel.|
+|ENVO:01000560|&nbsp;&nbsp;&nbsp;&nbsp;charcoal|Charcoal is a light, black residue, consisting of carbon and any remaining ash, obtained by removing water and other volatile constituents from animal and vegetation substances. Charcoal is usually produced by slow pyrolysis, the heating of wood or other substances in the absence of oxygen.|
+|ENVO:2000007|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biochar|charcoal that is used as a soil amendment.|
+|ENVO:01001139|&nbsp;&nbsp;&nbsp;&nbsp;methane ice|Ice which is primarily composed of methane.|
+|ENVO:01001238|&nbsp;&nbsp;&nbsp;&nbsp;residual kerogen|Kerogen which has a hydrogen to carbon ratio less than  0.5 and primarily composed of polycyclic aromatic hydrocarbons.|
+||||
