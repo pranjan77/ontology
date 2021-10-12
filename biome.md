@@ -1,6 +1,7 @@
 ## Validation for 'biome' field in samples upload
 biome field has to be a child of ENVO:00000428
 biome field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
+<font size=10>
 |Ontology|Name|Definition|
 |--------|------|---------|
 |        |<img width=2000>||
@@ -121,3 +122,5 @@ biome field is validated by finding exact match with <b>Ontology</b> or <b>Name<
 |[ENVO:00000890](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:00000890)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;small river biome|small river biome|
 |[ENVO:01000339](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:01000339)|polar biome|A biome which has the environmental condition polar|
 |[ENVO:01000186](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:01000186)|&nbsp;&nbsp;&nbsp;&nbsp;polar desert biome|A polar desert biome is a desert biome which is subject to low levels of insolation, annual precipitation less than 250 millimeters, and a mean temperature less than 10 degrees Celsius during its warmest month. Temperature changes in polar deserts frequently cross the freezing point of water.|
+
+  </font>
