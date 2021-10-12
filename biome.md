@@ -1,6 +1,6 @@
-## Validation for 'ENVO:00000428' field in samples upload
-ENVO:00000428 field has to be a child of 
-ENVO:00000428 field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
+## Validation for 'biome' field in samples upload
+biome field has to be a child of ENVO:00000428
+biome field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
 |Ontology|Name|Definition|
 |--------|------|---------|
 |        |<img width=1000>||
