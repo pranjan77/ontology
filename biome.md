@@ -1,7 +1,7 @@
 ## Validation for 'biome' field in samples upload
 biome field has to be a child of ENVO:00000428
 biome field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
-<font size=10>
+<font size=8>
 |Ontology|Name|Definition|
 |--------|------|---------|
 |        |<img width=2000>||
