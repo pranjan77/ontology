@@ -3,7 +3,7 @@ biome field has to be a child of ENVO:00000428
 biome field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
 |Ontology|Name|Definition|
 |--------|------|---------|
-|        |<img width=1000>||
+|        |<img width=1500>||
 |[ENVO:00000446](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:00000446)|terrestrial biome|A biome that applies to the terrestrial realm.|
 |[ENVO:01000174](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:01000174)|&nbsp;&nbsp;&nbsp;&nbsp;forest biome|A forest biome is a terrestrial biome which includes, across its entire spatial extent, densely packed vegetation which strongly limits light penetration to the forest floor.|
 |[ENVO:01000196](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:01000196)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coniferous forest biome|A coniferous forest biome is a forest biome which contains densely packed populations or communities of coniferous trees, strongly limiting light penetration to the forest floor.|
