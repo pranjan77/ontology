@@ -3,7 +3,7 @@ material field has to be a child of ENVO:00010483
 material field is validated by finding exact match with <b>Ontology</b> or <b>Name</b> from the following table
 |Ontology|Name|Definition|
 |--------|------|---------|
-|        |<img width=1000>||
+|        |<img width=1000>|<img width=5000>|
 |[ENVO:00000134](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:00000134)|permafrost|Soil or rock and included ice or organic material at or below the freezing point of water (0 degrees Celsius or 32 degrees Fahrenheit) for two or more years.|
 |[ENVO:03000088](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:03000088)|&nbsp;&nbsp;&nbsp;&nbsp;methane-laden permafrost|Permafrost which contains pockets of trapped methane gas.|
 |[ENVO:00000194](https://narrative.kbase.us/#ontology/term/envo_ontology/ENVO:00000194)|scree|Broken rock that appears at the bottom of crags, mountain cliffs or valley shoulders.|
